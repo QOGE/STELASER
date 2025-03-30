@@ -1,10 +1,55 @@
-STLR - STELASER Coin 
+STELASER - a decentralized research and coordination platform for the development of next-generation space propulsion systems — including ultra-high ISP, high-thrust engines for autonomous interplanetary logistics. Advanced AI systems are integrated into both development and governance, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth — laying the foundation for scalable off-world infrastructure and Kardashev-aligned civilization engineering.
 ========
 ![](src/qt/res/icons/stelaser.png)
 
-STELASER is a high-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, permanently locked validator funds, and automatic key rotation to counter future quantum threats. 
+STELASER (STLR) - is a high-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, permanently locked validator funds, and automatic key rotation to counter future quantum threats. 
 
-STELASER is a decentralized research and coordination platform for the development of next-generation space propulsion systems — including ultra-high ISP, high-thrust engines for autonomous interplanetary logistics. Advanced AI systems are integrated into both development and governance, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth — laying the foundation for scalable off-world infrastructure and Kardashev-aligned civilization engineering.
+Specifications:
+----------------------
+
+• ASICS resistant
+• Uses 50% POW and 50% POS
+• Algorithm:        Curvehash GPU,CPU
+• Block Time:       120 seconds
+• Block Reward:     1 STLR
+• Difficulty:       1 Day
+• P2P Port:         19995
+• RPC Port:         19996
+• Max supply:       21,000,000
+• Premined:         0
+
+Build stelaserd on Ubuntu 16.04, 18.04
+----------------------
+sudo add-apt-repository universe
+sudo apt-get update
+sudo apt-get install git
+sudo apt-get install build-essential
+sudo apt-get install libtool autotools-dev autoconf
+sudo apt-get install libssl-dev
+sudo apt-get install libboost-all-dev
+sudo apt-get install pkg-config
+sudo apt-get install libevent-dev
+sudo apt-get install libzmq3-dev
+--------------------------------------
+git clone https://github.com/----------------.git
+cd stelaser
+./autogen.sh
+./configure --enable-upnp-default --without-gui
+make -j 4
+
+How to Stake Mining
+----------------------
+Go to the console, use the command, and keep the wallet open.
+"walletpassphrase YourWalletPassword 8640000 true"
+The above command is only for staking, 100% safe
+
+
+How to create a node
+----------------------
+open port 19995
+Add the following code in the stelaser.conf file
+listen=1
+externalip=youip:19995
 
 
 # Quantum Attack Timelines and Defense Strategies
@@ -126,8 +171,6 @@ User wallets receive alerts and recommendations to rotate or upgrade keys as nee
 ## 5. Conclusion
 
 Quantum computing poses a long-term threat to blockchain security. STELASER combines permanently locked PoS, ephemeral keys, and hybrid cryptography to create a resilient foundation for the post-quantum future. By anticipating cryptographic evolution, STELASER ensures long-term integrity, user safety, and future-proof decentralized governance.
-
-
 Links
 ----------------
 
@@ -137,66 +180,8 @@ Links
 • Twitter: https://twitter.com/stelaser
 • YouTube: https://www.youtube.com/@stelaser
 
-Specifications:
-----------------------
-
-• ASICS resistant
-
-• Uses 50% POW and 50% POS
-
-• Algorithm:        Curvehash GPU,CPU
-
-• Block Time:       120 seconds
-
-• Block Reward:     1 STLR
-
-• Difficulty:       1 Day
-
-• P2P Port:         19995
-
-• RPC Port:         19996
-
-• Max supply:       21,000,000
-
-• Premined:         0
-
-Build stelaserd on Ubuntu 16.04, 18.04
-----------------------
-sudo add-apt-repository universe
-sudo apt-get update
-sudo apt-get install git
-sudo apt-get install build-essential
-sudo apt-get install libtool autotools-dev autoconf
-sudo apt-get install libssl-dev
-sudo apt-get install libboost-all-dev
-sudo apt-get install pkg-config
-sudo apt-get install libevent-dev
-sudo apt-get install libzmq3-dev
---------------------------------------
-git clone https://github.com/----------------.git
-cd stelaser
-./autogen.sh
-./configure --enable-upnp-default --without-gui
-make -j 4
-
-How to Stake Mining
-----------------------
-Go to the console, use the command, and keep the wallet open.
-
-walletpassphrase YourWalletPassword 8640000 true
-
-The above command is only for staking, 100% safe
 
 
-How to create a node
-----------------------
-open port 19995
-
-Add the following code in the stelaser.conf file
-
-listen=1
-
-externalip=youip:19995
 
 
 
