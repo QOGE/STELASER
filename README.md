@@ -33,51 +33,7 @@ STELASER - is a high-security, post-quantum blockchain featuring hybrid Proof-of
 
 • Premined:         0
 
-Build stelaserd on Ubuntu 16.04, 18.04
-----------------------
-sudo add-apt-repository universe
-
-sudo apt-get update
-
-sudo apt-get install git
-
-sudo apt-get install build-essential
-
-sudo apt-get install libtool autotools-dev autoconf
-
-sudo apt-get install libssl-dev
-
-sudo apt-get install libboost-all-dev
-
-sudo apt-get install pkg-config
-
-sudo apt-get install libevent-dev
-
-sudo apt-get install libzmq3-dev
---------------------------------------
-git clone https://github.com/----------------.git
-
-cd stelaser
-
-./autogen.sh
-
-./configure --enable-upnp-default --without-gui
-
-make -j 4
-
-How to Stake Mining
-----------------------
-Go to the console, use the command, and keep the wallet open.
-"walletpassphrase YourWalletPassword 8640000 true"
-The above command is only for staking, 100% safe
-
-
-How to create a node
-----------------------
-open port 19995
-Add the following code in the stelaser.conf file
-listen=1
-externalip=youip:19995
+---
 
 
 # Quantum Attack Timelines and Defense Strategies
