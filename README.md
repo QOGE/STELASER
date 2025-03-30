@@ -62,11 +62,11 @@ In the event that a quantum attacker gains access to a user's private key, this 
 
 ### Example Scenario
 
-| Event                                      | Result                                                      |
-|------------------------------------------ -|-------------------------------------------------------------|
-| Quantum attacker steals private key        | Cannot spend staked coins                                   |
-| Coins are locked for XXX days              | Attacker must wait for unlock period to expire              |
-| User or protocol monitors the network      | Suspicious behavior detected; countermeasures initiated     |
+| Event                                 | Result                                                  |
+|---------------------------------------|---------------------------------------------------------|
+| Quantum attacker steals private key   | Cannot spend staked coins                               |
+| Coins are locked for XXX days         | Attacker must wait for unlock period to expire          |
+| User or protocol monitors the network | Suspicious behavior detected; countermeasures initiated |
 
 ### Benefit
 
