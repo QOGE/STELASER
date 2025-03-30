@@ -6,7 +6,10 @@ Decentralized research and coordination platform for the development of next-gen
 ----------------------
 ![](src/qt/res/icons/stelaser.png)
 
-STELASER (STLR) - is a high-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, permanently locked validator funds, and automatic key rotation to counter future quantum threats. 
+STELASER (STLR)
+========
+
+- is a high-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, permanently locked validator funds, and automatic key rotation to counter future quantum threats. 
 
 Specifications:
 ----------------------
