@@ -11,33 +11,55 @@ Specifications:
 ----------------------
 
 • ASICS resistant
+
 • Uses 50% POW and 50% POS
+
 • Algorithm:        Curvehash GPU,CPU
+
 • Block Time:       120 seconds
+
 • Block Reward:     1 STLR
+
 • Difficulty:       1 Day
+
 • P2P Port:         19995
+
 • RPC Port:         19996
+
 • Max supply:       21,000,000
+
 • Premined:         0
 
 Build stelaserd on Ubuntu 16.04, 18.04
 ----------------------
 sudo add-apt-repository universe
+
 sudo apt-get update
+
 sudo apt-get install git
+
 sudo apt-get install build-essential
+
 sudo apt-get install libtool autotools-dev autoconf
+
 sudo apt-get install libssl-dev
+
 sudo apt-get install libboost-all-dev
+
 sudo apt-get install pkg-config
+
 sudo apt-get install libevent-dev
+
 sudo apt-get install libzmq3-dev
 --------------------------------------
 git clone https://github.com/----------------.git
+
 cd stelaser
+
 ./autogen.sh
+
 ./configure --enable-upnp-default --without-gui
+
 make -j 4
 
 How to Stake Mining
@@ -174,6 +196,7 @@ User wallets receive alerts and recommendations to rotate or upgrade keys as nee
 ## 5. Conclusion
 
 Quantum computing poses a long-term threat to blockchain security. STELASER combines permanently locked PoS, ephemeral keys, and hybrid cryptography to create a resilient foundation for the post-quantum future. By anticipating cryptographic evolution, STELASER ensures long-term integrity, user safety, and future-proof decentralized governance.
+
 Links
 ----------------
 
