@@ -3,8 +3,7 @@ STELASER
 
 STELASER - is a high-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, permanently locked validator funds, and automatic key rotation to counter future quantum threats. 
 
-----------------------
-![](src/qt/res/icons/stelaser.png)
+![](src/qt/res/icons/cpuminerscoin.png)
 
 Use Case:
 ========
