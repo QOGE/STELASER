@@ -160,9 +160,13 @@ Links
 ----------------
 
 • https://stelaser.com
+
 • https://github.com/stelaser/STLR
+
 • https://github.com/stelaser/STLR/issues
+
 • Twitter: https://twitter.com/stelaser
+
 • YouTube: https://www.youtube.com/@stelaser
 
 
