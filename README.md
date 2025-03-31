@@ -1,4 +1,4 @@
-![](8-dGwHcuJsRfkmiWX.png)
+![](1.jpg)
 
 STELASER 
 ========
