@@ -148,9 +148,7 @@ User wallets receive alerts and recommendations to rotate or upgrade keys as nee
 |            | and key expiration logic                                 |                             |
 |            | Full protocol-level enforcement of ephemeral keys        |                             |
 |            | and time-limited validity                                |                             |
-|            |                                                          |                             |
 | 2030–2040  | Hybrid quantum-safe wallets                              | Transition user base        |
-|            |                                                          |                             |
 | 2040+      | Quantum-safe signature enforcement                       | Full post-quantum security  |
 
 ---
