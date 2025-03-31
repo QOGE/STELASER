@@ -142,7 +142,7 @@ User wallets receive alerts and recommendations to rotate or upgrade keys as nee
 | Phase      | Strategy                                                 | Goal                        |
 |------------|----------------------------------------------------------|-----------------------------|
 | 2025-2030  | Locked PoS                                               | Reduce attack surface       |
-|            | Quantum Theft Delay + Key Rotation,HD wallet support,    |                             |
+|            | Quantum Theft Delay + Key Rotation, HD wallet support,   |                             |
 |            | explorer tagging, Add ephemeral key metadata support to  |                             |
 |            | transactions, Smart contracts can require ephemeral keys |                             |
 |            | and key expiration logic                                 |                             |
