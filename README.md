@@ -36,8 +36,8 @@ Blockchain Specifications:
 
 
 
-**STELASER Technical Documentation**
-***
+# STELASER Technical Documentation**
+
 
 # Quantum Attack Timelines and Defense Strategies
 
