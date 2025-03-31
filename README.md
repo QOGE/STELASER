@@ -1,4 +1,4 @@
-STELASER (STLR)
+STELASER 
 ========
 
 Decentralized research and coordination platform for the development of next-generation space propulsion systems — including ultra-high ISP, high-thrust engines for autonomous interplanetary logistics. Advanced AI systems are integrated into both development and governance, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth — laying the foundation for scalable off-world infrastructure and Kardashev-aligned civilization engineering.
@@ -6,7 +6,7 @@ Decentralized research and coordination platform for the development of next-gen
 ----------------------
 ![](src/qt/res/icons/stelaser.png)
 
-Specifications:
+Blockchain Specifications:
 ========
 
 STELASER - is a high-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, permanently locked validator funds, and automatic key rotation to counter future quantum threats. 
