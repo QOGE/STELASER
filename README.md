@@ -13,10 +13,6 @@ Decentralized research and coordination platform for the development of next-gen
 Blockchain Specifications:
 ========
 
-
-
-----------------------
-
 • ASICS resistant
 
 • Uses 50% POW and 50% POS
