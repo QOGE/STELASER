@@ -38,8 +38,9 @@ Blockchain Specifications:
 
 **STELASER Technical Documentation**
 ========
+
 # Quantum Attack Timelines and Defense Strategies
----
+
 
 ## 1. The Quantum Threat Landscape
 
