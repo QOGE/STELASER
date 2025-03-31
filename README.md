@@ -45,8 +45,6 @@ Blockchain Specifications:
 
 Modern cryptocurrencies rely on elliptic curve cryptography (ECC), including secp256k1 (Bitcoin, Ethereum) and Curve25519/Ed25519 (used in Monero, Zcash, and others). While secure against classical computing, ECC is vulnerable to quantum computing. Shor’s algorithm allows a sufficiently powerful quantum computer to derive private keys from exposed public keys, compromising address security.
 
-========
-
 ## 2. Timeline of a Quantum Attack Post-Transaction
 
 Once a user broadcasts a transaction, the public key becomes visible. In a post-quantum future, this opens a time window for quantum attackers to extract the private key. Estimated times based on projected quantum capabilities:
