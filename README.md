@@ -159,11 +159,9 @@ Quantum computing poses a long-term threat to blockchain security. STELASER comb
 Links
 ----------------
 
-• https://stelaser.com
+• Website: https://stelaser.com
 
-• https://github.com/stelaser/STLR
-
-• https://github.com/stelaser/STLR/issues
+• Github: https://github.com/stelaser/
 
 • Twitter: https://twitter.com/stelaser
 
