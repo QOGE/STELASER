@@ -34,11 +34,12 @@ Blockchain Specifications:
 • Premined:         0
 
 
-# Quantum Attack Timelines and Defense Strategies
----
+
 
 **STELASER Technical Documentation**
 ========
+# Quantum Attack Timelines and Defense Strategies
+---
 
 ## 1. The Quantum Threat Landscape
 
