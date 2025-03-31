@@ -1,15 +1,20 @@
 STELASER 
 ========
 
-Decentralized research and coordination platform for the development of next-generation space propulsion systems including Ultra-high ISP High-thrust engines for autonomous interplanetary logistics. Advanced AI systems are integrated into both development and governance, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth — laying the foundation for scalable off-world infrastructure and Kardashev-aligned civilization engineering.
+STELASER - is a high-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, permanently locked validator funds, and automatic key rotation to counter future quantum threats. 
 
 ----------------------
 ![](src/qt/res/icons/stelaser.png)
 
+Use Case:
+========
+
+Decentralized research and coordination platform for the development of next-generation space propulsion systems including Ultra-high ISP High-thrust engines for autonomous interplanetary logistics. Advanced AI systems are integrated into both development and governance, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth — laying the foundation for scalable off-world infrastructure and Kardashev-aligned civilization engineering.
+
 Blockchain Specifications:
 ========
 
-STELASER - is a high-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, permanently locked validator funds, and automatic key rotation to counter future quantum threats. 
+
 
 ----------------------
 
@@ -134,21 +139,19 @@ User wallets receive alerts and recommendations to rotate or upgrade keys as nee
 
 ## 4. Roadmap to Full Quantum Safety 
 
-| Phase      | Strategy                           | Goal                        |
-|------------|------------------------------------|-----------------------------|
-| 2025       | Locked PoS                         | Reduce attack surface       |
-| 2025–2030  | Quantum Theft Delay + Key Rotation | Reduce attack surface       |
-| 2030–2040  | Hybrid quantum-safe wallets        | Transition user base        |
-| 2040+      | Quantum-safe signature enforcement | Full post-quantum security  |
-
-## Ephemeral Key Support Timeline
-
-| Phase     | Timeframe    | Description                                                                    |
-|-----------|--------------|--------------------------------------------------------------------------------|
-| Phase 1   | Year 0–1     | Awareness campaign, optional key rotation, HD wallet support, explorer tagging |
-| Phase 2   | Year 1–2     | Add ephemeral key metadata support to transactions, no enforcement yet         |
-| Phase 3   | Year 2–3     | Smart contracts can require ephemeral keys and key expiration logic            |
-| Phase 4   | Year 3–5     | Full protocol-level enforcement of ephemeral keys and time-limited validity    |
+| Phase      | Strategy                                                 | Goal                        |
+|------------|----------------------------------------------------------|-----------------------------|
+| 2025-2030  | Locked PoS                                               | Reduce attack surface       |
+|            | Quantum Theft Delay + Key Rotation,HD wallet support,    |                             |
+|            | explorer tagging, Add ephemeral key metadata support to  |                             |
+|            | transactions, Smart contracts can require ephemeral keys |                             |
+|            | and key expiration logic                                 |                             |
+|            | Full protocol-level enforcement of ephemeral keys        |                             |
+|            | and time-limited validity                                |                             |
+|            |                                                          |                             |
+| 2030–2040  | Hybrid quantum-safe wallets                              | Transition user base        |
+|            |                                                          |                             |
+| 2040+      | Quantum-safe signature enforcement                       | Full post-quantum security  |
 
 ---
 
