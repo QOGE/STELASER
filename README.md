@@ -65,7 +65,7 @@ Once a user broadcasts a transaction, the public key becomes visible. In a post-
 
 ### 3.1. Permanent Locked Stake (Quantum-Hardened Consensus)
 
-STELASER secures 50% of its premined supply as permanently locked Proof-of-Stake (PoS), using keys that are never exposed through transactions. These coins:
+STELASER secures a part of its supply as permanently locked Proof-of-Stake (PoS), using keys that are never exposed through transactions. These coins:
 
 - Participate in consensus without signature exposure.
 - Are immune to quantum key recovery.
