@@ -4,6 +4,7 @@ STELASER
 ========
 
 STELASER is a decentralized research and coordination platform for the development of next-generation space propulsion systems including Ultra-high ISP High-thrust engines for autonomous interplanetary logistics. Advanced AI systems are integrated into both development and governance, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth — laying the foundation for scalable off-world infrastructure and Kardashev-aligned civilization engineering.
+
 https://www.stelaser.space
 
 Blockchain Specifications:
