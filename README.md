@@ -1,6 +1,7 @@
 ![](src/qt/res/icons/cmc.png)
 
-STELASER
+| STELASER | https://www.stelaser.space |
+|---------------------------------------|
 ========
 
 https://www.stelaser.space
