@@ -37,7 +37,7 @@ Blockchain Specifications:
 
 
 
-STELASER Technical Documentation**
+Technical Documentation
 ========
 
 
