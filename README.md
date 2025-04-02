@@ -13,6 +13,7 @@ Blockchain Specifications:
 |High-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, permanently locked validator funds, and automatic key rotation to counter future quantum threats.|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+![](/stl.jpg)
 
 • ASICS resistant
 
