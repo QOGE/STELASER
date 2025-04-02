@@ -37,7 +37,7 @@ Blockchain Specifications:
 
 • Premined:         0
 
-
+.
 ========
 
 Technical Documentation
