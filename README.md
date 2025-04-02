@@ -1,6 +1,6 @@
 ![](src/qt/res/icons/cmc.png)
 
-STELASER.SPACE
+STL.SPACE
 ========
 
 https://stelaser.com
