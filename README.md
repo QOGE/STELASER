@@ -17,6 +17,8 @@ Blockchain Specifications:
 
 ![](src/qt/res/icons/stl.jpg)
 
+• Ticker: STLSR
+
 • ASICS resistant
 
 • Uses 50% POW and 50% POS
