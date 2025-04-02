@@ -1,4 +1,4 @@
-![](src/qt/res/icons/stl.png)
+![](src/qt/res/icons/stl.jpg)
 
 STELASER (STLSR)
 ========
