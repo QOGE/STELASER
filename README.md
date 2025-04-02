@@ -42,7 +42,7 @@ Blockchain Specifications:
 Technical Documentation
 ========
 
-##
+---
 
 ## Quantum Attack Timelines and Defense Strategies|
 
