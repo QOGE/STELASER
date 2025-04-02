@@ -3,7 +3,7 @@
 STELASER
 ========
 
-https://stelaser.space
+https://stelaser.com
 ========
 STELASER is a decentralized research and coordination platform for the development of next-generation space propulsion systems including Ultra-high ISP High-thrust engines for autonomous interplanetary logistics. Advanced AI systems are integrated into both development and governance, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth.
 
