@@ -1,6 +1,6 @@
 ![](src/qt/res/icons/cmc.png)
 
-SSTO.SPACE
+OCTAN.SPACE
 ========
 
 https://stelaser.com
