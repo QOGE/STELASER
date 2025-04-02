@@ -1,6 +1,6 @@
 ![](src/qt/res/icons/cmc.png)
 
-STELASER (STLSR)
+STELASER (STLRSR)
 ========
 
 https://stelaser.com
