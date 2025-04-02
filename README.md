@@ -1,4 +1,4 @@
-![](/stl.png)
+![](/stl2.png)
 
 https://stelaser.com
 ========
