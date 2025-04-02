@@ -1,6 +1,6 @@
 ![](src/qt/res/icons/cmc.png)
 
-STL.SPACE
+HXR.SPACE
 ========
 
 https://stelaser.com
