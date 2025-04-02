@@ -38,7 +38,7 @@ Blockchain Specifications:
 • Premined:         0
 
 
-Technical Documentation ========
+Technical Documentation
 ========
 
 ![](src/qt/res/icons/stl.jpg)
