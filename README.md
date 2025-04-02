@@ -37,13 +37,13 @@ Blockchain Specifications:
 
 • Premined:         0
 
-.
-========
+
 
 Technical Documentation
 ========
 
-
+.
+========
 
 ## Quantum Attack Timelines and Defense Strategies|
 
