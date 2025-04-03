@@ -19,7 +19,9 @@ Blockchain Specifications:
 
 • ASICS resistant
 
-• Uses 50% POW and 50% POS
+• Human Consensus 50% Prof-of-Work
+
+• AI Consensus 50% Proof-of-Stake 
 
 • Algorithm:        Curvehash GPU,CPU
 
