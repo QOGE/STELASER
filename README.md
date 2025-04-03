@@ -19,10 +19,6 @@ Blockchain Specifications:
 
 • ASICS resistant
 
-• Human Consensus 50% Prof-of-Work
-
-• AI Consensus 50% Proof-of-Stake 
-
 • Algorithm:        Curvehash GPU,CPU
 
 • Block Time:       120 seconds
@@ -37,7 +33,14 @@ Blockchain Specifications:
 
 • Max supply:       21,000,000
 
-• Premined:         0
+• Premined:         50%
+
+• Human Consensus 50% Prof-of-Work
+
+• AI Consensus 50% Proof-of-Stake 
+
+🛰️ *For funding protocols and propulsion milestone allocation details, refer to the*  
+📄 [STELASER Propulsion Funding Protocol (SPFP) Whitepaper](./SPFP-Whitepaper.pdf)
 
 
 Technical Documentation
