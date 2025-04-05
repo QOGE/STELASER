@@ -168,7 +168,6 @@ Links
 
 • Twitter: https://twitter.com/stelaser
 
-• YouTube: https://www.youtube.com/@stelaser
 
 
 
