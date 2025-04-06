@@ -2,7 +2,7 @@
 STELASER (STLSR)
 ========
 
-![](/stl.png) 
+![](/ChatGPT Image Apr 2, 2025, 02_58_58 PM.png) 
 
 STELASER is a decentralized research and coordination AI platform for the development of next-generation space propulsion systems including Ultra-high ISP High-thrust engines for autonomous interplanetary logistics. Advanced AI systems are integrated into both development and governance, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth.
 
