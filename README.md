@@ -21,7 +21,7 @@ Blockchain Specifications:
 
 • Block Time:       120 seconds
 
-• Block Reward:     1 STLR
+• Block Reward:     1 STLSR
 
 • Difficulty:       1 Day
 
