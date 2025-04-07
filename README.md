@@ -31,12 +31,8 @@ Blockchain Specifications:
 
 • Max supply:       21,000,000
 
-• Premined:         50%
+• Premined:         50% 🛰️ *For funding protocols and propulsion milestone allocation details, refer to the*  
 
-
-
-
-🛰️ *For funding protocols and propulsion milestone allocation details, refer to the*  
 📄 [STELASER Propulsion Funding Protocol (SPFP) Whitepaper](./SPFP-Whitepaper.pdf)
 
 
