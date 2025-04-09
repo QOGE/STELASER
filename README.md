@@ -39,7 +39,7 @@ Why was 50% of STLSR premined?
 
 To bootstrap the Stelaser economy with Posthuman infrastructure and offer real utility from Day One.
 
-Anyone who pays for future Stelaser services — including access to CSTP propulsion, orbital logistics, AI research, or space simulation networks — will receive a 
+The ccess to CSTP propulsion, orbital logistics, AI research, or space simulation networks — will have a 
 guaranteed 50% discount when paying in STLSR.
 
 This makes STLSR the most cost-effective and efficient currency for posthuman infrastructure and off-Earth economics.
