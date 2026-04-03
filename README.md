@@ -24,31 +24,7 @@ System Specifications:
 
 •  cost-effective and efficient posthuman infrastructure
 
-| Benefit	                         | Impact                                      |
-|----------------------------------|---------------------------------------------|
-|✅ Real utility for the coin	     | People want SAOGEN to pay less              |                       
-|✅ Deflationary behavior	         | Holders will stake or spend wisely, not dump|
-|✅ Attractiveness for allies	     | Builders, engineers, and devs save 50%      |
-|✅ Alignment with the mission	   | It funds space development & Posthuman tech |
-
-
-
-🛰️ *For funding protocols and propulsion milestone allocation details, refer to the*  
-
-📄 [STELASER Propulsion Funding Protocol (SPFP) Whitepaper](./SPFP-Whitepaper.pdf)
-
-
-Technical Documentation
-========
-
-![](src/qt/res/icons/stl.jpg)
-
-
 ---
-
-## 5. Conclusion
-
-Quantum computing poses a long-term threat to blockchain security. STELASER combines permanently locked PoS, ephemeral keys, and hybrid cryptography to create a resilient foundation for the post-quantum future. By anticipating cryptographic evolution, STELASER ensures long-term integrity, user safety, and future-proof decentralized governance.
 
 Links
 ----------------
