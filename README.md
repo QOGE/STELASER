@@ -3,7 +3,7 @@
 STELASER - Symbiotic Autonomous System (SAS)
 ========
 Decentralized research and coordination AI platform for the development of next-generation space propulsion systems, 
-including Ultra-High ISP & Thrust engines for autonomous interplanetary logistics.
+including Ultra-High ISP & Thrust enginesl, anld fully autonomous space logistics.
 
 https://stelaser.com
 ========
@@ -13,15 +13,11 @@ System Specifications:
 
 • Advanced AI systems integration into R&D
 
-• adaptive optimization, 
+• adaptive optimization
 
-• resource allocation, 
+• efficient resource allocation 
 
-• scientific collaboration beyond Earth..
-
-•  Offer real utility from Day One 
-
-•  The access to CSTP propulsion
+•  ISP 5000 sec 
 
 •  orbital and interplanetary logistics
 
