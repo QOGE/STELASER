@@ -18,11 +18,7 @@ System Specifications:
 
 • resource allocation, 
 
-• scientific collaboration beyond Earth..|
-
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
+• scientific collaboration beyond Earth..
 
 •  Offer real utility from Day One 
 
