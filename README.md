@@ -22,10 +22,10 @@ System Specifications:
 
 
 
-Why was 50% of STLSR premined?
+Why was STLSR created?
 ========
 
-To bootstrap the Stelaser economy with Posthuman infrastructure and offer real utility from Day One.
+To bootstrap the SAOGEN economy with Posthuman infrastructure and offer real utility from Day One.
 
 The access to CSTP propulsion, orbital and interplanetary logistics, AI research, or space simulation networks — will have a 
 guaranteed 50% discount when paying in STLSR.
