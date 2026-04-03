@@ -25,16 +25,16 @@ System Specifications:
 Why was STLSR created?
 ========
 
-To bootstrap the SAOGEN economy with Posthuman infrastructure and offer real utility from Day One.
+To bootstrap the SAO with Posthuman infrastructure and offer real utility from Day One.
 
 The access to CSTP propulsion, orbital and interplanetary logistics, AI research, or space simulation networks — will have a 
-guaranteed 50% discount when paying in STLSR.
+guaranteed 50% discount when paying in SAOGEN.
 
-This makes STLSR the most cost-effective and efficient currency for posthuman infrastructure and off-Earth economics.
+This makes SAOGEN the most cost-effective and efficient currency for posthuman infrastructure and off-Earth economics.
 
 | Benefit	                         | Impact                                      |
 |----------------------------------|---------------------------------------------|
-|✅ Real utility for the coin	     | People want STLSR to pay less               |                       
+|✅ Real utility for the coin	     | People want SAOGEN to pay less              |                       
 |✅ Deflationary behavior	         | Holders will stake or spend wisely, not dump|
 |✅ Attractiveness for allies	     | Builders, engineers, and devs save 50%      |
 |✅ Alignment with the mission	   | It funds space development & Posthuman tech |
