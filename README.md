@@ -11,7 +11,6 @@ https://stelaser.com
 System Specifications:
 ---
 
-|
 • Advanced AI systems integration into R&D
 
 • adaptive optimization, 
