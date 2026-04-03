@@ -15,9 +15,13 @@ System Specifications:
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 •  Bootstrap the SAO with Posthuman infrastructure
+
 •  Offer real utility from Day One 
-•  The access to CSTP propulsion, 
+
+•  The access to CSTP propulsion
+
 •  orbital and interplanetary logistics
+
 •  cost-effective and efficient posthuman infrastructure
 
 | Benefit	                         | Impact                                      |
