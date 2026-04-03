@@ -18,23 +18,8 @@ System Specifications:
 
 • ASICS resistant
 
-• Consensus 50% Prof-of-Work / 50% Proof of Stake
+• Consensus 50% Prof-of-Concept / 50% Proof of Stake
 
-• Algorithm:        Curvehash GPU,CPU
-
-• Block Time:       120 seconds
-
-• Block Reward:     1 STLSR
-
-• Difficulty:       1 Day
-
-• P2P Port:         19995
-
-• RPC Port:         19996
-
-• Max supply:       21,000,000
-
-• Premined:         50% 
 
 
 Why was 50% of STLSR premined?
