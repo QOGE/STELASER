@@ -6,15 +6,13 @@ Decentralized research and coordination AI platform for the development of next-
 
 Ultra-high ISP High-thrust engines for autonomous interplanetary logistics.
 
-Advanced AI systems are integrated into both research and development, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth.
-
 https://stelaser.com
 ========
 
 System Specifications:
 ---
 
-|High-security, post-quantum blockchain featuring hybrid Proof-of-Stake/Proof-of-Work consensus, and automatic key rotation to counter future quantum threats.|
+|Advanced AI systems are integrated into both research and development, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth..|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 • Ticker: STLSR
