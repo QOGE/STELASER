@@ -1,4 +1,4 @@
-![](/logo.png) 
+![](/files/stelaser.jpg) 
 
 STELASER - Symbiotic Autonomous System (SAS)
 ========
