@@ -31,9 +31,9 @@ Links
 
 • Website: https://stelaser.com
 
-• Github: https://github.com/stelaser/
+• Github: https://github.com/
 
-• Twitter: https://twitter.com/stelaser
+• Twitter: https://twitter.com/
 __________________________________________________
 
 |Mixture                   | Molar Mass (g/mol) | γ (mix) | R_spec (J/kg·K) | Density @0.0116 atm (kg/m³) | Speed of Sound @300 K (m/s)|
