@@ -14,23 +14,11 @@ System Specifications:
 |Advanced AI systems are integrated into both research and development, enabling adaptive optimization, resource allocation, and scientific collaboration beyond Earth..|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-• Ticker: STLSR
-
-• ASICS resistant
-
-• Consensus 50% Prof-of-Concept / 50% Proof of Stake
-
-
-
-Why was STLSR created?
-========
-
-To bootstrap the SAO with Posthuman infrastructure and offer real utility from Day One.
-
-The access to CSTP propulsion, orbital and interplanetary logistics, AI research, or space simulation networks — will have a 
-guaranteed 50% discount when paying in SAOGEN.
-
-This makes SAOGEN the most cost-effective and efficient currency for posthuman infrastructure and off-Earth economics.
+•  Bootstrap the SAO with Posthuman infrastructure
+•  Offer real utility from Day One 
+•  The access to CSTP propulsion, 
+•  orbital and interplanetary logistics
+•  cost-effective and efficient posthuman infrastructure
 
 | Benefit	                         | Impact                                      |
 |----------------------------------|---------------------------------------------|
