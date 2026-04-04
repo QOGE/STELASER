@@ -13,22 +13,18 @@ System Specifications:
 
 • Advanced AI systems integration into R&D
 
-• adaptive optimization
+• Adaptive optimization
 
-• efficient resource allocation 
+• Efficient resource allocation 
 
-•  ISP 5000 sec 
-
-•  orbital and interplanetary logistics
-
-•  cost-effective and efficient posthuman infrastructure
+•  Cost-effective and efficient posthuman infrastructure
 
 ---
 
 Links
 ----------------
 
-• Website: https://stelaser.com
+• Website: https://stelaser.org
 
 • Github: https://github.com/
 
