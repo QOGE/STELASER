@@ -11,6 +11,8 @@ including Ultra-High ISP & Thrust enginesl, anld fully autonomous space logistic
 System Specifications:
 ---
 
+• Symbiotic autonomous system (SAS)
+
 • Advanced AI systems integration into R&D
 
 • Adaptive optimization
