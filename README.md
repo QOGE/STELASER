@@ -19,6 +19,8 @@ System Specifications:
 
 • Efficient resource allocation 
 
+• Self-replication
+
 • Cost-effective and efficient posthuman infrastructure
 
 ---
