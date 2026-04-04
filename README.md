@@ -1,6 +1,6 @@
 ![](/files/images/logo200.png) 
 
-STELASER (SAS)
+STELASER 
 ========
 
 Decentralized research and coordination AI platform for the development of next-generation space propulsion systems, 
@@ -11,7 +11,7 @@ including Ultra-High ISP & Thrust enginesl, anld fully autonomous space logistic
 System Specifications:
 ---
 
-• Symbiotic autonomous system (SAS)
+• Symbiotic Autonomous System (SAS)
 
 • Advanced AI systems integration into R&D
 
