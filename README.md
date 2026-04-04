@@ -23,6 +23,10 @@ System Specifications:
 
 • Cost-effective and energy efficient posthuman infrastructure
 
+__________________________________________________
+
+![](/files/images/content.png) 
+
 ---
 
 Links
@@ -33,9 +37,6 @@ Links
 • Github: https://github.com/
 
 • Twitter: https://twitter.com/
-__________________________________________________
-
-![](/files/images/content.png) 
 
 
 
