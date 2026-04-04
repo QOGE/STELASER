@@ -21,7 +21,7 @@ System Specifications:
 
 • Self-replication
 
-• Cost-effective and efficient posthuman infrastructure
+• Cost-effective and energy efficient posthuman infrastructure
 
 ---
 
