@@ -1,7 +1,7 @@
 STELASER (SAS)
 ========
 
-STELASER is the first Symbiotic Autonomous System (SAS) focused on the development of next-generation space propulsion systems, 
+STELASER is the first Symbiotic Autonomous System (SAS) on SAOGEN SAO ecosystem, focused on the development of next-generation space propulsion systems, 
 including Ultra-High ISP & Thrust engines, high-g tolerant propulsion, and fully autonomous space logistics.
 
 ![](/files/images/logo200.png) 
