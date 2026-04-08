@@ -26,16 +26,16 @@ System Specifications:
 
 __________________________________________________
 
-![](/files/images/content.png) 
 
 Active Projects:
 
-# First stage HRX-Class engines 2000-6000 sec ISP
+HRX-Class engines 2000-6000 sec ISP
 
 Helion Rail 
 
 Orbital Synchro Reail 
 ---
+![](/files/images/content.png) 
 
 Links
 ----------------
