@@ -1,10 +1,8 @@
 STELASER – First Pure SAS
 ========
 
-Decentralized research and coordination AI platform for the development of next-generation space propulsion systems, 
-including Ultra-High ISP & Thrust engines, and fully autonomous space logistics.
-
-STELASER is the initial Symbiotic Autonomous System focused on unmanned autonomous space technologies, including high-g tolerant propulsion and orbital logistics.
+STELASER is the first Symbiotic Autonomous System focused on the development of next-generation space propulsion systems, 
+including Ultra-High ISP & Thrust engines, high-g tolerant propulsion, and fully autonomous space logistics.
 
 ![](/files/images/logo200.png) 
 
