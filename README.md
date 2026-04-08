@@ -27,7 +27,7 @@ __________________________________________________
 
 Active Projects:
 
-HRX-Class engines 2000-6000 sec ISP
+HRX-class engines 2000-6000 sec ISP
 
 Helion Rail 
 
