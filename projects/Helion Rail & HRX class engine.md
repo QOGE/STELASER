@@ -46,8 +46,12 @@ This hybrid air-breathing/rocket approach in a controlled corridor could bridge 
 
 Sea-Level Segment: 50–100+ km long inflatable tunnel laid across calm ocean surfaces (e.g., equatorial or mid-latitude regions with stable weather). Constructed from high-strength, multi-layer polymer composites (similar to modern high-altitude balloons or airships) with internal pressure slightly above ambient for structural rigidity.
 Stratospheric Extension: Final 5–20 km segment transitions upward via buoyant or tensioned Mylar/Kevlar arches or towers, reaching ~15–25 km altitude where atmospheric density is low.
-Internal Atmosphere: Controlled synthetic mix dominated by hydrogen (H₂), with pressure tapering from ~1 atm at sea level to 0.01–0.1 atm at the exit. Hydrogen is chosen for its low molecular weight (reducing sound speed and enabling higher Mach numbers before shock heating) and combustion properties.
-Vehicle Guidance: Magnetic or mechanical levitation/rail system inside the tunnel for precise, low-friction guidance at hypersonic speeds. The tunnel isolates the vehicle from external wind, weather, and most aerodynamic drag.
+
+Internal Atmosphere: Controlled synthetic mix dominated by hydrogen (H₂), with pressure tapering from ~1 atm at sea level to 0.01–0.1 atm at the exit. 
+Hydrogen is chosen for its low molecular weight (reducing sound speed and enabling higher Mach numbers before shock heating) and combustion properties.
+
+Vehicle Guidance: Magnetic or mechanical levitation/rail system inside the tunnel for precise, low-friction guidance at hypersonic speeds. 
+The tunnel isolates the vehicle from external wind, weather, and most aerodynamic drag.
 
 Advantages:
 
@@ -65,14 +69,20 @@ Ocean dynamics: Anchoring, wave/tide compensation, and corrosion resistance.
 The HRX engine is a hybrid air-breathing system optimized for the synthetic hydrogen corridor:
 
 Mode 1 (Low-Speed): Turbojet-like compression using tunnel-assisted intake.
+
 Mode 2 (High-Speed): Ramjet/scramjet transition, ingesting the low-density hydrogen atmosphere directly.
-Combustion: Hydrogen from the tunnel + onboard LOX. The "reverse exchange" aspect refers to leveraging external hydrogen mass flow while carrying only the oxidizer, inverting the typical rocket (carry both) or air-breather (carry fuel, use air) paradigm.
+
+Combustion: Hydrogen from the tunnel + onboard LOX. 
+The "reverse exchange" aspect refers to leveraging external hydrogen mass flow while carrying only the oxidizer, inverting the typical rocket (carry both) or air-breather (carry fuel, use air) paradigm.
+
 Exhaust: Primarily water vapor (H₂O), which can be partially condensed and recovered at tunnel collection points.
 
 Performance Characteristics (Conceptual Estimates):
 
 Specific impulse (Isp) potentially exceeding 3500 seconds in corridor mode (due to high effective mass flow and efficient combustion).
+
 Exit velocity target: Mach 8–12+ at tunnel exit (depending on corridor length), reducing the delta-v burden on the upper stage.
+
 Thermal management: Lower stagnation temperatures possible in low-density H₂ environment; advanced materials or active cooling required for sustained hypersonic operation.
 
 The vehicle carries a small upper stage (e.g., adapted from existing kick motors or a compact LOX/LH₂ stage) for final orbital insertion.
@@ -80,7 +90,9 @@ The vehicle carries a small upper stage (e.g., adapted from existing kick motors
 2.3 Energy and Resource Sustainability
 
 Water Recovery: Combustion produces H₂O vapor, which condenses in cooler tunnel sections or post-exit collection systems.
+
 Electrolysis: On-site solar (or wind/ocean energy) arrays power electrolyzers to regenerate H₂ and O₂ from recovered water.
+
 Closed-Loop Potential: In steady-state operations, net propellant consumption approaches zero beyond initial seeding and minor losses, making the system highly sustainable and low-carbon.
 
 This cycle aligns with growing global green hydrogen infrastructure.
@@ -92,8 +104,11 @@ This cycle aligns with growing global green hydrogen infrastructure.
 Target Metrics (Mature System):
 
 Payload to LEO: 5–10 t per launch (scalable with longer corridors or parallel tunnels).
-Cost: ~$50–150/kg to LEO (driven by low propellant use, reusable vehicle/tunnel components, and high cadence).
+
+Cost: ~$50–100/kg to LEO (driven by low propellant use, reusable vehicle/tunnel components, and high cadence).
+
 Launch cadence: Potentially hourly.
+
 Environmental: Near-zero direct emissions; fully recyclable materials emphasized.
 
 Comparison to Conventional Systems:
