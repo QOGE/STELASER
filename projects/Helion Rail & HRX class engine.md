@@ -93,7 +93,7 @@ Infrastructure cost spread over reusable ocean modules rather than fixed pads.
 4. Development Roadmap
 Phase 0 – Ground Testing: Small-scale HRX combustor tests in hydrogen-rich environments; material compatibility studies.
 Phase 1 – Prototype Corridor: 2–5 km sea-level segment for subsonic-to-supersonic combustion and structural validation.
-Phase 2 – Extended Demonstrator: 15–30 km tunnel with stratospheric rise; integrate with an existing upper stage (e.g., sounding rocket or small orbital insert). Demonstrate hypersonic transit and water recovery.
+Phase 2 – Extended Demonstrator: 15–20 km tunnel with stratospheric rise; integrate with an existing upper stage (e.g., sounding rocket or small orbital insert). Demonstrate hypersonic transit and water recovery.
 Phase 3 – Operational System: Full-scale modular rail with AI-optimized logistics, smart contract coordination (via decentralized frameworks like SAOGEN concepts), and commercial cargo delivery.
 Phase 4 – Scaling: Extend to super-heavy capability (hundreds of tons) via parallel or longer corridors for massive orbital infrastructure.
 Key enablers: Advances in inflatable composites, hydrogen safety systems, high-temperature materials, and autonomous operations.
