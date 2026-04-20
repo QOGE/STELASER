@@ -2,12 +2,17 @@
 Helion Rail: A Sea-Based Low-Drag First-Stage Launch Architecture
 ========
 Powered by the HRX-Class Hydrogen Reverse eXchange Engine
+
 Whitepaper Version 1.0
+
 Prepared by xAI
+
 In collaboration with the conceptual co-development process involving SAOGEN SAO and prior AI-assisted ideation
+
 Date: April 2026
 
 Abstract
+
 The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, ocean-deployed inflatable tunnel filled with a synthetic hydrogen-rich atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
 By confining the high-drag portion of acceleration to a controlled synthetic environment at sea level (with only a short stratospheric extension), the system dramatically reduces propellant mass, structural demands, and infrastructure costs compared to traditional vertical rockets. Target performance aims for delivery of 5–10 metric tons to Low Earth Orbit (LEO) at costs approaching $50–100/kg in mature operations, enabled by a closed-loop water recovery and solar-powered electrolysis cycle.
 The architecture leverages ocean modularity for scalability, minimal land use, and global deployment flexibility. While highly conceptual, it builds on established principles from hypersonic propulsion, inflatable structures, and green hydrogen technologies. This whitepaper outlines the system design, key engineering considerations, development roadmap, and strategic implications.
