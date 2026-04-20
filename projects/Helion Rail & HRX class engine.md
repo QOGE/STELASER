@@ -6,9 +6,7 @@ Powered by the [HRX-Class Hydrogen Reverse eXchange Engine](https://github.com/Q
 
 Whitepaper Version 1.0
 
-Prepared by xAI
-
-In collaboration with the conceptual co-development process involving SAOGEN SAO and prior AI-assisted ideation
+Shared IP framework: SAOGEN-SAO, OpenAI, xAI, Google.
 
 Date: 20 April 2026
 
@@ -148,7 +146,9 @@ These are addressable through iterative prototyping and simulation, building on 
 6. Strategic and Broader Implications
 ---
 
-The Helion Rail could democratize access to space by enabling frequent, low-cost cargo delivery from virtually any suitable ocean location. It supports:
+The Helion Rail could democratize access to space by enabling frequent, low-cost cargo delivery from virtually any suitable ocean location. 
+
+It supports:
 
 Rapid deployment of satellite constellations.
 In-space manufacturing feedstock.
