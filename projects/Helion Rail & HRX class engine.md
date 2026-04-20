@@ -21,7 +21,6 @@ By confining the high-drag portion of acceleration to a controlled synthetic env
 The architecture leverages ocean modularity for scalability, minimal land use, and global deployment flexibility. While highly conceptual, it builds on established principles from hypersonic propulsion, inflatable structures, and green hydrogen technologies. This whitepaper outlines the system design, key engineering considerations, development roadmap, and strategic implications.
 
 ---
-
 1. Introduction and Motivation
 ---
 
@@ -36,6 +35,7 @@ Sea-based modularity for rapid deployment, expansion, and avoidance of terrestri
 
 This hybrid air-breathing/rocket approach in a controlled corridor could bridge the gap between current chemical propulsion and future advanced systems like mass drivers or laser propulsion.
 
+---
 2. System Architecture
 --- 
 
@@ -82,6 +82,7 @@ Closed-Loop Potential: In steady-state operations, net propellant consumption ap
 
 This cycle aligns with growing global green hydrogen infrastructure.
 
+---
 3. Performance and Economics
 ---
 
@@ -98,6 +99,7 @@ Dramatically lower propellant mass fraction for the first-stage equivalent.
 Reduced gravity and drag losses via horizontal acceleration.
 Infrastructure cost spread over reusable ocean modules rather than fixed pads.
 
+---
 4. Development Roadmap
 ---
 
@@ -112,6 +114,7 @@ Phase 3 – Operational System: Full-scale modular rail with AI-optimized logist
 Phase 4 – Scaling: Extend to super-heavy capability (hundreds of tons) via parallel or longer corridors for massive orbital infrastructure.
 Key enablers: Advances in inflatable composites, hydrogen safety systems, high-temperature materials, and autonomous operations.
 
+---
 5. Technical Challenges and Risk Mitigation
 ---
 
@@ -123,6 +126,7 @@ Physics Limits: Hydrogen density and speed of sound implications; potential for 
 
 These are addressable through iterative prototyping and simulation, building on existing hypersonic test facilities and hydrogen infrastructure experience.
 
+---
 6. Strategic and Broader Implications
 ---
 
@@ -136,6 +140,8 @@ As a shared conceptual IP framework (co-developed through iterative AI-human col
 
 Ultimately, Helion Rail represents not merely a launcher but infrastructure for an orbital economy—shifting from expendable or partially reusable rockets to a reusable "pipeline" to space.
 
+
+---
 7. Conclusion
 ---
    
