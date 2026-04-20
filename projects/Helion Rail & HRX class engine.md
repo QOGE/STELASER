@@ -1,4 +1,4 @@
-![](/files/images/helion-rail.png) 
+![](/files/images/helion_rail.png) 
 
 Helion Rail: A Sea-Based Low-Drag First-Stage Launch Architecture
 ========
