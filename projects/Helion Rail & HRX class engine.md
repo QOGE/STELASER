@@ -64,7 +64,7 @@ Exhaust: Primarily water vapor (H₂O), which can be partially condensed and rec
 
 Performance Characteristics (Conceptual Estimates):
 
-Specific impulse (Isp) potentially exceeding 2000–3500 seconds in corridor mode (due to high effective mass flow and efficient combustion).
+Specific impulse (Isp) potentially exceeding 3500 seconds in corridor mode (due to high effective mass flow and efficient combustion).
 Exit velocity target: Mach 8–12+ at tunnel exit (depending on corridor length), reducing the delta-v burden on the upper stage.
 Thermal management: Lower stagnation temperatures possible in low-density H₂ environment; advanced materials or active cooling required for sustained hypersonic operation.
 
