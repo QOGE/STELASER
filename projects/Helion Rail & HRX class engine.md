@@ -26,7 +26,9 @@ The architecture leverages ocean modularity for scalability, minimal land use, a
 ---
 
 Current space launch systems remain constrained by the tyranny of the rocket equation, high aerodynamic drag during atmospheric ascent, and the expense of vertical infrastructure. Reusable rockets like Falcon 9 and Starship have lowered costs significantly, yet first-stage operations still dominate expenses due to propellant needs, thermal protection, and recovery logistics.
+
 The Helion Rail addresses these by reimagining the first stage as a guided, low-drag acceleration corridor rather than a self-contained rocket. The vehicle accelerates horizontally (or with minimal initial climb) inside a protected tunnel, reaching high Mach numbers with vastly reduced drag and gravity losses before a short rocket-powered ascent to orbit.
+
 Core Innovations:
 
 Synthetic Hydrogen Atmosphere Rail Corridor (SHARC) — an inflatable, ocean-based tunnel providing a tailored low-density, hydrogen-rich environment.
