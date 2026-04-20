@@ -3,6 +3,7 @@ Helion Rail: A Sea-Based Low-Drag First-Stage Launch Architecture
 ========
 Powered by the [HRX-Class Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/projects/HRX-Class%20Hydrogen%20Reverse%20eXchange%20Engine.md
 )
+
 Whitepaper Version 1.0
 
 Prepared by xAI
