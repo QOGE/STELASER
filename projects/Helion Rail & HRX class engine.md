@@ -15,9 +15,15 @@ Date: April 2026
 Abstract
 
 The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, ocean-deployed inflatable tunnel filled with a synthetic hydrogen-rich atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
+
 By confining the high-drag portion of acceleration to a controlled synthetic environment at sea level (with only a short stratospheric extension), the system dramatically reduces propellant mass, structural demands, and infrastructure costs compared to traditional vertical rockets. Target performance aims for delivery of 5–10 metric tons to Low Earth Orbit (LEO) at costs approaching $50–100/kg in mature operations, enabled by a closed-loop water recovery and solar-powered electrolysis cycle.
+
 The architecture leverages ocean modularity for scalability, minimal land use, and global deployment flexibility. While highly conceptual, it builds on established principles from hypersonic propulsion, inflatable structures, and green hydrogen technologies. This whitepaper outlines the system design, key engineering considerations, development roadmap, and strategic implications.
+
+---
+
 1. Introduction and Motivation
+   
 Current space launch systems remain constrained by the tyranny of the rocket equation, high aerodynamic drag during atmospheric ascent, and the expense of vertical infrastructure. Reusable rockets like Falcon 9 and Starship have lowered costs significantly, yet first-stage operations still dominate expenses due to propellant needs, thermal protection, and recovery logistics.
 The Helion Rail addresses these by reimagining the first stage as a guided, low-drag acceleration corridor rather than a self-contained rocket. The vehicle accelerates horizontally (or with minimal initial climb) inside a protected tunnel, reaching high Mach numbers with vastly reduced drag and gravity losses before a short rocket-powered ascent to orbit.
 Core Innovations:
