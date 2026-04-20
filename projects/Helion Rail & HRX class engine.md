@@ -57,7 +57,7 @@ Ocean dynamics: Anchoring, wave/tide compensation, and corrosion resistance.
 2.2 HRX-Class Propulsion System
 The HRX engine is a hybrid air-breathing system optimized for the synthetic hydrogen corridor:
 
-Mode 1 (Low-Speed): Turbojet-like compression using onboard or tunnel-assisted intake.
+Mode 1 (Low-Speed): Turbojet-like compression using tunnel-assisted intake.
 Mode 2 (High-Speed): Ramjet/scramjet transition, ingesting the low-density hydrogen atmosphere directly.
 Combustion: Hydrogen from the tunnel + onboard LOX. The "reverse exchange" aspect refers to leveraging external hydrogen mass flow while carrying only the oxidizer, inverting the typical rocket (carry both) or air-breather (carry fuel, use air) paradigm.
 Exhaust: Primarily water vapor (H₂O), which can be partially condensed and recovered at tunnel collection points.
