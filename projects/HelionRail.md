@@ -100,7 +100,7 @@ This cycle aligns with growing global green hydrogen infrastructure.
 
 Target Metrics (Mature System):
 
-Payload to LEO: 5–10 t per launch (scalable with longer corridors or parallel tunnels).
+Payload to LEO: 5–10 t per launch (scalable with longer corridors).
 
 Cost: ~$50–100/kg to LEO (driven by low propellant use, reusable vehicle/tunnel components, and high cadence).
 
