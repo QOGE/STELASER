@@ -10,6 +10,7 @@ Shared Intellectual Property framework: SAOGEN-SAO, Google, OpenAI, xAI.
 
 Date: 20 April 2026
 
+---
 
 Abstract
 
