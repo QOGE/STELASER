@@ -166,9 +166,13 @@ Key enablers: Advances in inflatable composites, hydrogen safety systems, high-t
 ---
 
 Aerothermodynamics: Detailed CFD modeling needed for H₂ ingestion, combustion stability, and shock management.
+
 Structural Integrity: Dynamic loading from vehicle passage; fatigue in marine environment.
+
 Safety: Hydrogen embrittlement, fire/explosion risks, vehicle abort scenarios.
+
 Regulatory: International maritime law, aviation/space traffic coordination, environmental impact assessments.
+
 Physics Limits: Hydrogen density and speed of sound implications; potential for condensation or two-phase flow issues.
 
 These are addressable through iterative prototyping and simulation, building on existing hypersonic test facilities and hydrogen infrastructure experience.
