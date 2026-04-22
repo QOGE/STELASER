@@ -31,8 +31,11 @@ The Helion Rail addresses these by reimagining the first stage as a guided, low-
 Core Innovations:
 
 Synthetic Hydrogen Atmosphere Rail Corridor (SHARC) — an inflatable, ocean-based tunnel providing a tailored low-density, hydrogen-rich environment.
+
 HRX-Class Propulsion — efficient combustion of tunnel-provided hydrogen with onboard LOX in a variable-geometry hybrid engine.
+
 Sustainable closed-loop resource cycle using water byproduct recovery and renewable electrolysis.
+
 Sea-based modularity for rapid deployment, expansion, and avoidance of terrestrial regulatory/land conflicts.
 
 This hybrid air-breathing/rocket approach in a controlled corridor could bridge the gap between current chemical propulsion and future advanced systems like mass drivers or laser propulsion.
