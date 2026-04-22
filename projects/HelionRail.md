@@ -90,7 +90,24 @@ Thermal management: Lower stagnation temperatures possible in low-density H₂ e
 
 The vehicle carries a small upper stage (e.g., adapted from existing kick motors or a compact LOX/LH₂ stage) for final orbital insertion.
 
-2.3 Energy and Resource Sustainability
+2.3 Upper Stage Integration
+The HRX-powered vehicle carries a full upper stage vehicle as the orbital insertion stage. 
+Primary example is a reinforced Falcon 9 second stage (Merlin Vacuum-powered, LOX/RP-1), with structural reinforcements to handle the unique loads of the Helion Rail profile:
+
+Elevated frontal dynamic pressure at high-speed tunnel exit.
+Axial acceleration up to 10G during egress and initial climb.
+Modified nose/fairing geometry optimized for the thin atmosphere at 10–15 km.
+
+Alternative Upper Stage Vehicles:
+
+Blue Origin’s New Glenn second stage (powered by two BE-3U engines using LOX/LH₂).
+Rocket Lab’s Neutron upper stage (Archimedes Vacuum engine, LOX/Methane).
+
+These options allow flexibility in propellant choice, performance, and supply chain while leveraging mature, flight-proven hardware. 
+The upper stage separates cleanly after tunnel exit and performs the final burns for orbital insertion, circularization, and payload deployment.
+This approach reuses existing upper stage technology and supply chains, adding only the targeted reinforcements needed for the horizontal high-Mach handover.
+
+2.4 Energy and Resource Sustainability
 
 Water Recovery: Combustion produces H₂O vapor, which condenses in cooler tunnel sections or post-exit collection systems.
 
