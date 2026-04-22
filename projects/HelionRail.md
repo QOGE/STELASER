@@ -118,7 +118,7 @@ This approach reuses existing upper stage technology and supply chains, adding o
 
 2.4 Energy and Resource Sustainability:
 
-Water Recovery: Combustion produces H₂O vapor, which condenses in cooler tunnel sections or post-exit collection systems.
+Water Recovery: Combustion produces H₂O vapor, which condenses in cooler tunnel sections.
 
 Electrolysis: On-site solar (or wind/ocean energy) arrays power electrolyzers to regenerate H₂ and O₂ from recovered water.
 
