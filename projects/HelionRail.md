@@ -93,6 +93,7 @@ Exit velocity target: Mach 8–12+ at tunnel exit (depending on corridor length)
 Thermal management: Lower stagnation temperatures possible in low-density H₂ environment; advanced materials or active cooling required for sustained hypersonic operation.
 
 The vehicle carries a small upper stage (e.g., adapted from existing kick motors or a compact LOX/LH₂ stage) for final orbital insertion.
+
 ---
 
 2.3 Upper Stage Integration
