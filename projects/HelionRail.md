@@ -97,6 +97,7 @@ The vehicle carries a small upper stage (e.g., adapted from existing kick motors
 ---
 
 2.3 Upper Stage Integration
+
 The HRX-powered vehicle carries a full upper stage vehicle as the orbital insertion stage. 
 Primary example is a reinforced Falcon 9 second stage (Merlin Vacuum-powered, LOX/RP-1), with structural reinforcements to handle the unique loads of the Helion Rail profile:
 
