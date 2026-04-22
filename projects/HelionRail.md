@@ -16,7 +16,9 @@ The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: 
 
 By confining the high-drag portion of acceleration to a controlled synthetic environment at sea level (with only a short stratospheric extension), the system dramatically reduces propellant mass, structural demands, and infrastructure costs compared to traditional vertical rockets. Target performance aims for delivery of 5–10 metric tons to Low Earth Orbit (LEO) at costs approaching $50–100/kg in mature operations, enabled by a closed-loop water recovery and solar-powered electrolysis cycle.
 
-The architecture leverages ocean modularity for scalability, minimal land use, and global deployment flexibility. While highly conceptual, it builds on established principles from hypersonic propulsion, inflatable structures, and green hydrogen technologies. This whitepaper outlines the system design, key engineering considerations, development roadmap, and strategic implications.
+The architecture leverages ocean modularity for scalability, minimal land use, and global deployment flexibility. While highly conceptual, it builds on established principles from hypersonic propulsion, inflatable structures, and green hydrogen technologies. 
+
+This whitepaper outlines the system design, key engineering considerations, development roadmap, and strategic implications.
 
 ---
 1. Introduction and Motivation
