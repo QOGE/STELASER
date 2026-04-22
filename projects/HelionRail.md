@@ -48,13 +48,22 @@ This hybrid air-breathing/rocket approach in a controlled corridor could bridge 
 
 2.1 The Helion Rail Corridor (SHARC)
 
-Sea-Level Segment: 50–100+ km long inflatable tunnel laid across calm ocean surfaces (e.g., equatorial or mid-latitude regions with stable weather). Constructed from high-strength, multi-layer polymer composites (similar to modern high-altitude balloons or airships) with internal pressure slightly above ambient for structural rigidity.
-Stratospheric Extension: Final 5–20 km segment transitions upward via buoyant or tensioned Mylar/Kevlar arches or towers, reaching ~15–25 km altitude where atmospheric density is low.
+Sea-Level Segment: 
 
-Internal Atmosphere: Controlled synthetic mix dominated by hydrogen (H₂), with pressure tapering from ~1 atm at sea level to 0.01–0.1 atm at the exit. 
+50–100+ km long inflatable tunnel laid across calm ocean surfaces (e.g., equatorial or mid-latitude regions with stable weather). Constructed from high-strength, multi-layer polymer composites (similar to modern high-altitude balloons or airships) with internal pressure slightly above ambient for structural rigidity.
+
+Stratospheric Extension: 
+
+Final 5–20 km segment transitions upward via buoyant or tensioned Mylar/Kevlar arches or towers, reaching ~15–25 km altitude where atmospheric density is low.
+
+Internal Atmosphere: 
+
+Controlled synthetic mix dominated by hydrogen (H₂), with pressure tapering from ~1 atm at sea level to 0.01–0.1 atm at the exit. 
 Hydrogen is chosen for its low molecular weight (reducing sound speed and enabling higher Mach numbers before shock heating) and combustion properties.
 
-Vehicle Guidance: Magnetic or mechanical levitation/rail system inside the tunnel for precise, low-friction guidance at hypersonic speeds. 
+Vehicle Guidance: 
+
+Magnetic or mechanical levitation/rail system inside the tunnel for precise, low-friction guidance at hypersonic speeds. 
 The tunnel isolates the vehicle from external wind, weather, and most aerodynamic drag.
 
 Advantages:
