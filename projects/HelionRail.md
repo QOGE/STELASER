@@ -71,7 +71,7 @@ Ocean dynamics: Anchoring, wave/tide compensation, and corrosion resistance.
 
 ---
 
-2.2 HRX-Class Propulsion System
+2.2 HRX-Class Propulsion System:
 
 The HRX engine is a hybrid air-breathing system optimized for the synthetic hydrogen corridor:
 
@@ -114,7 +114,7 @@ This approach reuses existing upper stage technology and supply chains, adding o
 
 ---
 
-2.4 Energy and Resource Sustainability
+2.4 Energy and Resource Sustainability:
 
 Water Recovery: Combustion produces H₂O vapor, which condenses in cooler tunnel sections or post-exit collection systems.
 
