@@ -69,7 +69,10 @@ Maintaining tunnel integrity and hydrogen purity at scale.
 Hydrogen leakage management and safety (hydrogen is flammable; requires advanced sealing, sensors, and inerting systems).
 Ocean dynamics: Anchoring, wave/tide compensation, and corrosion resistance.
 
+---
+
 2.2 HRX-Class Propulsion System
+
 The HRX engine is a hybrid air-breathing system optimized for the synthetic hydrogen corridor:
 
 Mode 1 (Low-Speed): Turbojet-like compression using tunnel-assisted intake.
@@ -90,6 +93,7 @@ Exit velocity target: Mach 8–12+ at tunnel exit (depending on corridor length)
 Thermal management: Lower stagnation temperatures possible in low-density H₂ environment; advanced materials or active cooling required for sustained hypersonic operation.
 
 The vehicle carries a small upper stage (e.g., adapted from existing kick motors or a compact LOX/LH₂ stage) for final orbital insertion.
+---
 
 2.3 Upper Stage Integration
 The HRX-powered vehicle carries a full upper stage vehicle as the orbital insertion stage. 
@@ -107,6 +111,8 @@ Rocket Lab’s Neutron upper stage (Archimedes Vacuum engine, LOX/Methane).
 These options allow flexibility in propellant choice, performance, and supply chain while leveraging mature, flight-proven hardware. 
 The upper stage separates cleanly after tunnel exit and performs the final burns for orbital insertion, circularization, and payload deployment.
 This approach reuses existing upper stage technology and supply chains, adding only the targeted reinforcements needed for the horizontal high-Mach handover.
+
+---
 
 2.4 Energy and Resource Sustainability
 
