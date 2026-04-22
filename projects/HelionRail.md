@@ -1,8 +1,9 @@
 ![](/files/images/helion_rail.png) 
 
-Helion Rail: A Sea-Based Low-Drag First-Stage Launch Architecture
+Helion Rail (SHARC): Synthetic Hydrogen Atmosphere Rail Corridor
 ========
-Powered by the [HRX-Class Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
+
+A Sea-Based Low-Drag First-Stage Launch Architecture powered by the [HRX-Class Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
 
 
 Shared Intellectual Property framework: SAOGEN-SAO, Google, OpenAI, xAI.
