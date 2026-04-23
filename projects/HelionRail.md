@@ -184,7 +184,7 @@ These are addressable through iterative prototyping and simulation, building on 
 6. Strategic and Broader Implications
 ---
 
-The Helion Rail could democratize access to space by enabling frequent, low-cost cargo delivery from virtually any suitable ocean location. 
+The Helion Rail could democratize access to space by enabling hourly, low-cost cargo delivery from virtually any suitable ocean location. 
 
 It supports:
 
