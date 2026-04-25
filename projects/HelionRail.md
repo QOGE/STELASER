@@ -16,7 +16,7 @@ Date: 20 April 2026
 
 Abstract
 
-The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, sea-level-to-stratosphere tunnel system filled with a synthetic hydrogen-rich atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
+The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, sea-level-to-stratosphere tunnel system filled with a synthetic hydrogen atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
 
 By confining the high-drag portion of acceleration to a controlled synthetic environment at sea level (with only a short stratospheric extension), the system dramatically reduces propellant mass, structural demands, and infrastructure costs compared to traditional vertical rockets. Target performance aims for delivery of 5–10 metric tons to Low Earth Orbit (LEO) at costs approaching $50–100/kg in mature operations, enabled by a closed-loop water recovery and solar-powered electrolysis cycle.
 
@@ -34,7 +34,7 @@ The Helion Rail addresses these by reimagining the first stage as a guided, low-
 
 Core Innovations:
 
-Synthetic Hydrogen Atmosphere Rail Corridor (SHARC) — an inflatable, sea-level tunnel providing a tailored low-density, hydrogen-rich environment.
+Synthetic Hydrogen Atmosphere Rail Corridor (SHARC) — a sea-level tunnel providing a tailored low-density, hydrogen-rich environment.
 
 HRX-Class Propulsion — efficient combustion of tunnel-provided hydrogen with onboard LOX in a variable-geometry hybrid engine.
 
