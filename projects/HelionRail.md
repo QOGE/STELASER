@@ -6,7 +6,10 @@ Synthetic Hydrogen Atmosphere Rail Corridor.
 
 ---
 
-Low-Drag First-Stage Launch Architecture for Earth,Moon, and Mars Cargo Logistics, powered by [Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
+Low-Drag First-Stage Launch Architecture for Earth,Moon, and Mars Cargo Logistics
+======
+
+powered by [Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
 
 
 Shared Intellectual Property framework: SAOGEN-SAO, Google, OpenAI, xAI.
