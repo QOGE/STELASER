@@ -19,7 +19,7 @@ Date: 20 April 2026
 
 ---
 
-##Abstract
+## Abstract
 
 The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, sea-level-to-stratosphere tunnel system filled with a synthetic hydrogen atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
 
