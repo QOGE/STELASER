@@ -16,11 +16,11 @@ Date: 20 April 2026
 
 Abstract
 
-The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, ocean-deployed inflatable tunnel filled with a synthetic hydrogen-rich atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
+The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, sea-level inflatable tunnel filled with a synthetic hydrogen-rich atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
 
 By confining the high-drag portion of acceleration to a controlled synthetic environment at sea level (with only a short stratospheric extension), the system dramatically reduces propellant mass, structural demands, and infrastructure costs compared to traditional vertical rockets. Target performance aims for delivery of 5–10 metric tons to Low Earth Orbit (LEO) at costs approaching $50–100/kg in mature operations, enabled by a closed-loop water recovery and solar-powered electrolysis cycle.
 
-The architecture leverages ocean modularity for scalability, minimal land use, and global deployment flexibility. While highly conceptual, it builds on established principles from hypersonic propulsion, inflatable structures, and green hydrogen technologies. 
+The architecture leverages modularity for scalability, minimal land use, and global deployment flexibility. While highly conceptual, it builds on established principles from hypersonic propulsion, inflatable structures, and green hydrogen technologies. 
 
 This whitepaper outlines the system design, key engineering considerations, development roadmap, and strategic implications.
 
@@ -34,13 +34,13 @@ The Helion Rail addresses these by reimagining the first stage as a guided, low-
 
 Core Innovations:
 
-Synthetic Hydrogen Atmosphere Rail Corridor (SHARC) — an inflatable, ocean-based tunnel providing a tailored low-density, hydrogen-rich environment.
+Synthetic Hydrogen Atmosphere Rail Corridor (SHARC) — an inflatable, sea-level tunnel providing a tailored low-density, hydrogen-rich environment.
 
 HRX-Class Propulsion — efficient combustion of tunnel-provided hydrogen with onboard LOX in a variable-geometry hybrid engine.
 
 Sustainable closed-loop resource cycle using water byproduct recovery and renewable electrolysis.
 
-Sea-based modularity for rapid deployment, expansion, and avoidance of terrestrial regulatory/land conflicts.
+Ground based modularity for rapid deployment, and expansion.
 
 This hybrid air-breathing/rocket approach in a controlled corridor could bridge the gap between current chemical propulsion and future advanced systems like mass drivers or laser propulsion.
 
@@ -50,7 +50,7 @@ This hybrid air-breathing/rocket approach in a controlled corridor could bridge 
 
 2.1 The Helion Rail Corridor (SHARC)
 
-Sea-Level Segment: 50–100+ km long inflatable tunnel laid across calm ocean surfaces (e.g., equatorial or mid-latitude regions with stable weather). Constructed from high-strength, multi-layer polymer composites (similar to modern high-altitude balloons or airships) with internal pressure slightly above ambient for structural rigidity.
+Sea-Level Segment: 50–100+ km long inflatable tunnel constructed from high-strength, multi-layer polymer composites with internal pressure slightly above ambient for structural rigidity.
 
 Stratospheric Extension: Final 5–20 km segment transitions upward via buoyant or tensioned Mylar/Kevlar arches or towers, reaching ~15–25 km altitude where atmospheric density is low.
 
@@ -70,8 +70,6 @@ Challenges & Mitigations:
 
 Maintaining tunnel integrity and hydrogen purity at scale.
 Hydrogen leakage management and safety (hydrogen is flammable; requires advanced sealing, sensors, and inerting systems).
-Ocean dynamics: Anchoring, wave/tide compensation, and corrosion resistance.
-
 ---
 
 2.2 HRX-Class Propulsion System:
@@ -147,7 +145,7 @@ Comparison to Conventional Systems:
 
 Dramatically lower propellant mass fraction for the first-stage equivalent.
 Reduced gravity and drag losses via horizontal acceleration.
-Infrastructure cost spread over reusable ocean modules rather than fixed pads.
+Infrastructure cost spread over reusable modules rather than fixed pads.
 
 ---
 4. Development Roadmap
@@ -161,7 +159,7 @@ Phase 2 – Extended Demonstrator: 15–20 km tunnel with stratospheric rise; in
 
 Phase 3 – Operational System: Full-scale modular rail with AI-optimized logistics, smart contract coordination (via decentralized frameworks like SAOGEN concepts), and commercial cargo delivery.
 
-Phase 4 – Scaling: Extend to super-heavy capability (hundreds of tons) via parallel or longer corridors for massive orbital infrastructure.
+Phase 4 – Scaling: Extend to super-heavy capability (hundreds of tons) via longer corridors for massive orbital infrastructure.
 Key enablers: Advances in inflatable composites, hydrogen safety systems, high-temperature materials, and autonomous operations.
 
 ---
@@ -170,11 +168,11 @@ Key enablers: Advances in inflatable composites, hydrogen safety systems, high-t
 
 Aerothermodynamics: Detailed CFD modeling needed for H₂ ingestion, combustion stability, and shock management.
 
-Structural Integrity: Dynamic loading from vehicle passage; fatigue in marine environment.
+Structural Integrity: Dynamic loading from vehicle passage.
 
 Safety: Hydrogen embrittlement, fire/explosion risks, vehicle abort scenarios.
 
-Regulatory: International maritime law, aviation/space traffic coordination, environmental impact assessments.
+Regulatory: Aviation/space traffic coordination, environmental impact assessments.
 
 Physics Limits: Hydrogen density and speed of sound implications; potential for condensation or two-phase flow issues.
 
@@ -184,7 +182,7 @@ These are addressable through iterative prototyping and simulation, building on 
 6. Strategic and Broader Implications
 ---
 
-The Helion Rail could democratize access to space by enabling hourly, low-cost cargo delivery from virtually any suitable ocean location. 
+The Helion Rail could democratize access to space by enabling hourly, low-cost cargo delivery from virtually any suitable location. 
 
 It supports:
 
@@ -202,6 +200,6 @@ Ultimately, Helion Rail represents not merely a launcher but infrastructure for 
 ---
    
 The Helion Rail + HRX system offers a bold reimagining of space access, combining synthetic atmospheric engineering, hybrid propulsion, and sustainable resource cycling. While significant engineering hurdles remain, the potential for order-of-magnitude cost reductions and scalability makes it a compelling direction for long-term investment and research.
-Future work should focus on detailed physics simulations, small-scale demonstrations, and partnership across aerospace, energy, and maritime sectors.
+Future work should focus on detailed physics simulations, and small-scale demonstrations.
 
 End of Whitepaper
