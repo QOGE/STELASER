@@ -2,8 +2,8 @@
 
 Helion Rail (SHARC) 
 ======
-Synthetic Hydrogen Atmosphere Rail Corridor.
-_
+**Synthetic Hydrogen Atmosphere Rail Corridor.**
+
 
 
 First-Stage Launch Architecture for Earth,Moon, and Mars Cargo Logistics
