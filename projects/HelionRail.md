@@ -2,14 +2,14 @@
 
 Helion Rail (SHARC) 
 ======
-**Synthetic Hydrogen Atmosphere Rail Corridor.**
+*Synthetic Hydrogen Atmosphere Rail Corridor.*
 
 
 
 First-Stage Launch Architecture for Earth,Moon, and Mars Cargo Logistics
 ---
 
-powered by [Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
+Powered by [Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
 
 
 Shared Intellectual Property framework: SAOGEN-SAO, Google, OpenAI, xAI.
