@@ -5,7 +5,9 @@ Helion Rail (SHARC)
 Synthetic Hydrogen Atmosphere Rail Corridor.
 ---
 
-A Sea-level Low-Drag First-Stage Launch Architecture powered by [Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
+A Sea-level Low-Drag First-Stage Launch Architecture for Earth-to-Orbit Cargo Logistics
+
+powered by [Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
 
 
 Shared Intellectual Property framework: SAOGEN-SAO, Google, OpenAI, xAI.
@@ -16,7 +18,7 @@ Date: 20 April 2026
 
 Abstract
 
-The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, sea-level inflatable tunnel filled with a synthetic hydrogen-rich atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
+The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, sea-level-to-stratosphere tunnel system filled with a synthetic hydrogen-rich atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
 
 By confining the high-drag portion of acceleration to a controlled synthetic environment at sea level (with only a short stratospheric extension), the system dramatically reduces propellant mass, structural demands, and infrastructure costs compared to traditional vertical rockets. Target performance aims for delivery of 5–10 metric tons to Low Earth Orbit (LEO) at costs approaching $50–100/kg in mature operations, enabled by a closed-loop water recovery and solar-powered electrolysis cycle.
 
