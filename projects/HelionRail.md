@@ -12,7 +12,7 @@ First-Stage Launch Architecture for Earth,Moon, and Mars Cargo Logistics
 Powered by [Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
 
 
-[Shared Intellectual Property framework:](https://github.com/QOGE/SAOGEN/blob/main/files/SharedIP.md) SAOGEN-SAO, Google, OpenAI, xAI.
+[Symbiotic Intellectual Property framework:](https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md) SAOGEN, Anthropic, Google, OpenAI, xAI.
 
 Date: 20 April 2026
 
