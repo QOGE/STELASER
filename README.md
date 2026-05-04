@@ -34,7 +34,7 @@ HRX-class engines 2000-6000 sec ISP
 Orbital Synchrorail 
 
 ---
-![](/files/images/content.png) 
+![](/files/images/stelaser-bg.png) 
 
 Links
 ----------------
