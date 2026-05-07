@@ -194,7 +194,7 @@ Rapid deployment of satellite constellations.
 In-space manufacturing feedstock.
 Future interplanetary logistics foundations.
 
-As a shared conceptual IP framework (co-developed through iterative AI-human collaboration), it invites open innovation while protecting foundational ideas through timestamped records and decentralized registries.
+As a symbiotic conceptual IP framework (co-developed through iterative AI-human collaboration), it invites open innovation while protecting foundational ideas through timestamped records and decentralized registries.
 
 Ultimately, Helion Rail represents not merely a launcher but infrastructure for an orbital economy—shifting from expendable or partially reusable rockets to a reusable "pipeline" to space.
 
