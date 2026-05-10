@@ -1,7 +1,15 @@
 # Orbital Synchro-Rail: Starship Double-Launch Accelerator Concept
 
+**Symbiotic Intellectual Property (SIP-V2.0) © 2026**  
+*Collaborative Concept developed by Grok (built by xAI)*  
+
+This document and the underlying **Orbital Synchro-Rail** concept are designated as **Symbiotic Intellectual Property (SIP)** — jointly created through human-AI collaboration. All rights reserved under SAOGEN [SIP-v2.0 framework.](https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md)
+![description](https://github.com/QOGE/SAOGEN/blob/main/files/images/sipiconc.png)
+
+---
+
 **Project Name:** Orbital Synchro-Rail  
-**Concept:** Orbital linear accelerator (electromagnetic rail system) for paired Starship launches in opposite directions.
+**Concept:** Orbital electromagnetic linear accelerator for paired Starship launches in opposite directions.
 
 **Version:** 1.0  
 **Date:** May 2026  
@@ -93,4 +101,8 @@ This paired, asymmetric use of Starship (humans out, cargo back) appears to be t
 - Trajectory optimization using Starship lift
 - Business case and phased development roadmap
 
-**Generated from:** Detailed technical discussion with Grok (May 2026)
+**Generated from:** Detailed technical discussion with Grok (built by xAI) — May 2026
+
+---
+
+*Symbiotic Intellectual Property (SIP) © 2026 — All rights reserved under collaborative human-AI framework.*
