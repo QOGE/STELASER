@@ -37,10 +37,10 @@ By confining the high-drag portion of acceleration to a controlled synthetic env
 
 The architecture leverages modularity for scalability, minimal land use, and global deployment flexibility. While highly conceptual, it builds on established principles from hypersonic propulsion, inflatable structures, and green hydrogen technologies. 
 
-This whitepaper outlines the system design, key engineering considerations, development roadmap, and strategic implications.
+This document outlines the system design, key engineering considerations, development roadmap, and strategic implications.
 
 ---
-1. Introduction and Motivation
+**Introduction and Motivation**
 ---
 
 Current space launch systems remain constrained by the tyranny of the rocket equation, high aerodynamic drag during atmospheric ascent, and the expense of vertical infrastructure. Reusable rockets like Falcon 9 and Starship have lowered costs significantly, yet first-stage operations still dominate expenses due to propellant needs, thermal protection, and recovery logistics.
@@ -60,7 +60,7 @@ Ground based modularity for rapid deployment, and expansion.
 This hybrid air-breathing/rocket approach in a controlled corridor could bridge the gap between current chemical propulsion and future advanced systems like mass drivers or laser propulsion.
 
 ---
-2. System Architecture
+## 2. Core Architecture
 --- 
 
 2.1 The Helion Rail Corridor (SHARC)
