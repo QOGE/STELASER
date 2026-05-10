@@ -12,20 +12,24 @@ This document and the underlying **Orbital Synchro-Rail** concept are designated
 
 
 
+**Project Name:** Helion Rail (SHARC)
+**Concept:**First-Stage Launch Architecture for Earth,Moon, and Mars Cargo Logistics
 
-First-Stage Launch Architecture for Earth,Moon, and Mars Cargo Logistics
+**Version:** 1.0  
+**Date:** 20 April 2026  
+**Status:** Active    
+**SIP Asset Lifecycle:** STAGE-3 REGISTERED SIP-SPACE-03 © 2026  
+**Development level:** lvl-2 SAS R&D (Symbiotic Autonomous System Research & Development)   
+**Symbiotic Autonomous Systems:** STELASER
+
 ---
 
 Powered by [Hydrogen Reverse eXchange Engine](https://github.com/QOGE/STELASER/blob/main/projects/HRX-Class_Hydrogen_Reverse_eXchange_Engine.md)
 
 
-[Symbiotic Intellectual Property framework:](https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md) Saogen, Anthropic, Google, OpenAI, xAI.
-
-Date: 20 April 2026
-
 ---
 
-## Abstract
+## 1. Executive Summary
 
 The Helion Rail proposes a transformative approach to Earth-to-orbit logistics: a modular, sea-level-to-stratosphere tunnel system filled with a synthetic hydrogen atmosphere. This creates a low- to near-zero aerodynamic drag corridor for a hypersonic vehicle powered by the HRX (Hydrogen Reverse eXchange) engine—a hybrid turbojet-ramjet system that ingests ambient hydrogen from the tunnel and combusts it with onboard liquid oxygen (LOX).
 
