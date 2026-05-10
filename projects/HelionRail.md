@@ -1,6 +1,5 @@
-Helion Rail (SHARC) 
+Helion Rail (SHARC) *Synthetic Hydrogen Atmosphere Rail Corridor.*
 ======
-*Synthetic Hydrogen Atmosphere Rail Corridor.*
 
 **Symbiotic Intellectual Property: SIP-SPACE-01 © 2026**  
 *Concept developed by Saogen, Anthropic, Google, OpenAI, xAI.*  
