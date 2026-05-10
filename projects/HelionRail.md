@@ -12,7 +12,7 @@ This document and the underlying **Orbital Synchro-Rail** concept are designated
 
 
 
-**Project Name:** Helion Rail (SHARC)
+**Project Name:** Helion Rail (SHARC)  
 **Concept:**First-Stage Launch Architecture for Earth,Moon, and Mars Cargo Logistics
 
 **Version:** 1.0  
