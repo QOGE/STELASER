@@ -46,11 +46,11 @@ The result is a highly efficient two-way space transportation system: **humans o
 - Circular velocity: **~7.62 km/s**
 
 #### Reentry Parameters (120 km interface)
-| Scenario                              | Entry Speed | Flight Path Angle | Peak g (ballistic) | Peak g (with lift) | Heat Flux (relative) |
-|---------------------------------------|-------------|-------------------|--------------------|--------------------|----------------------|
-| Standard deorbit                      | ~7.9 km/s   | -1° to -2°        | 4–6g               | 3–5g               | 100%                 |
-| 3.2 km/s retrograde +3.2 km/s (Moon)  | ~5.13 km/s  | -24° to -25°      | ~25–30g            | 8–15g              | ~25–30%              |
-| 3.6 km/s retrograde +3.6 km/s (Mars)  | ~4.79 km/s  | -27° to -28°      | ~25–30g            | 8–15g              | ~20–25%              |
+| Scenario                    | Entry Speed | Flight Path Angle | Peak g (ballistic) | Peak g (with lift) | Heat Flux (relative) |
+|----------------------------|-------------|-------------------|--------------------|--------------------|----------------------|
+| Standard deorbit           | ~7.9 km/s  | -1° to -2°       | 4–6g              | 3–5g              | 100%                |
+| 3.2 km/s retrograde        | ~5.13 km/s | -24° to -25°     | ~25–30g           | 8–15g             | ~25–30%             |
+| 3.6 km/s retrograde        | ~4.79 km/s | -27° to -28°     | ~25–30g           | 8–15g             | ~20–25%             |
 
 **Key Finding:** The large reduction in velocity **more than compensates** for the steeper entry angle. Thermal loads drop dramatically.
 
