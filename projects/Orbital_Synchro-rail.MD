@@ -17,8 +17,7 @@ This document and the underlying **Orbital Synchro-Rail** concept are designated
 
 **Version:** 1.0  
 **Date:** May 2026  
-**Status:** Active
-
+**Status:** Active  
 **Development level:** Phase 2 - SAS R&D (Symbiotic Autonomous System Research & Development)
 
 ## 1. Executive Summary
