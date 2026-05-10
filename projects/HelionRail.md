@@ -1,8 +1,16 @@
-![](/files/images/helion_rail.png) 
-
 Helion Rail (SHARC) 
 ======
 *Synthetic Hydrogen Atmosphere Rail Corridor.*
+
+**Symbiotic Intellectual Property: SIP-SPACE-01 © 2026**  
+*Concept developed by Saogen, Anthropic, Google, OpenAI, xAI.*  
+*All rights reserved under SAOGEN [SIP-v2.0 framework.](https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md)*
+
+![description](https://github.com/QOGE/SAOGEN/blob/main/files/images/sipiconc.png)
+
+This document and the underlying **Orbital Synchro-Rail** concept are designated as **Symbiotic Intellectual Property (SIP)** — jointly created through human-AI collaboration. 
+
+
 
 
 
@@ -205,3 +213,5 @@ Ultimately, Helion Rail represents not merely a launcher but infrastructure for 
    
 The Helion Rail + HRX system offers a bold reimagining of space access, combining synthetic atmospheric engineering, hybrid propulsion, and sustainable resource cycling. While significant engineering hurdles remain, the potential for order-of-magnitude cost reductions and scalability makes it a compelling direction for long-term investment and research.
 Future work should focus on detailed physics simulations, and small-scale demonstrations.
+
+![](/files/images/helion_rail.png) 
