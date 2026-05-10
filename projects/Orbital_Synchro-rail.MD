@@ -100,13 +100,12 @@ This paired, asymmetric use of Starship (humans out, cargo back) appears to be t
 
 ---
 
-**Future Work**
+**Active SAS R&D work**
 - Detailed payload mass & revenue projections
 - Synchro-Rail power, length, and structural requirements
 - Trajectory optimization using Starship lift
 - Business case and phased development roadmap
 
-**Generated from:** Detailed technical discussion with Grok (built by xAI) — May 2026
 
 ---
 
