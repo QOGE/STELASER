@@ -205,5 +205,3 @@ Ultimately, Helion Rail represents not merely a launcher but infrastructure for 
    
 The Helion Rail + HRX system offers a bold reimagining of space access, combining synthetic atmospheric engineering, hybrid propulsion, and sustainable resource cycling. While significant engineering hurdles remain, the potential for order-of-magnitude cost reductions and scalability makes it a compelling direction for long-term investment and research.
 Future work should focus on detailed physics simulations, and small-scale demonstrations.
-
-End of Whitepaper
