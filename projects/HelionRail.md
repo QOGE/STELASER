@@ -7,7 +7,7 @@ Helion Rail (SHARC) *Synthetic Hydrogen Atmosphere Rail Corridor.*
 
 ![description](https://github.com/QOGE/SAOGEN/blob/main/files/images/sipiconc.png)
 
-This document and the underlying **Orbital Synchro-Rail** concept are designated as **Symbiotic Intellectual Property (SIP)** — jointly created through human-AI collaboration. 
+This document and the underlying **Helion Rail** concept are designated as **Symbiotic Intellectual Property (SIP)** — jointly created through human-AI collaboration. 
 
 
 
