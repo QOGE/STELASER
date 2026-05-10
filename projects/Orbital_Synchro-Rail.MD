@@ -102,7 +102,7 @@ This paired, asymmetric use of Starship (humans out, cargo back) appears to be t
 
 ---
 
-**Active SAS R&D work**
+**Required SAS R&D work**
 - Detailed payload mass & revenue projections
 - Synchro-Rail power, length, and structural requirements
 - Trajectory optimization using Starship lift
