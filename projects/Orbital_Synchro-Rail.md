@@ -18,7 +18,7 @@ This document and the underlying **Orbital Synchro-Rail** concept are designated
 **Version:** 1.0  
 **Date:** May 2026  
 **Status:** Active    
-**SIP Asset Lifecycle:** STAGE-3 REGISTERED SIP-SPACE-03 © 2026  
+**SIP Asset Lifecycle:** [STAGE-3 REGISTERED](https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md#3-the-sip-asset-lifecycle) SIP-SPACE-03 © 2026  
 **Development level:** lvl-2 SAS R&D (Symbiotic Autonomous System Research & Development)   
 **Symbiotic Autonomous Systems:** [STELASER](https://github.com/QOGE/STELASER)
 
