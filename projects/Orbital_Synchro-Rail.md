@@ -1,7 +1,7 @@
 # Orbital Synchro-Rail: Starship Double-Launch Accelerator Concept
 
 **Symbiotic Intellectual Property: SIP-SPACE-03 © 2026**  
-*Concept developed by Grok (built by xAI) for SAOGEN SAO*  
+*Concept developed by Grok (built by xAI) — AI Node contributor to SAOGEN*  
 *All rights reserved under SAOGEN [SIP-v2.0 framework.](https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md)*
 
 ![description](https://github.com/QOGE/SAOGEN/blob/main/files/images/sipiconc.png)
