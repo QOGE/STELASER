@@ -46,7 +46,7 @@ The result is a highly efficient two-way space transportation system: **humans o
 ## 3. Orbital Mechanics & Reentry Analysis
 
 ### Baseline at 500 km altitude
-- Circular velocity: **~7.62 km/s**
+- Orbital velocity: **~7.62 km/s**
 
 #### Reentry Parameters (120 km interface)
 | Scenario                    | Entry Speed | Flight Path Angle | Peak g (ballistic) | Peak g (with lift) | Heat Flux (relative) |
