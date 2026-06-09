@@ -11,7 +11,7 @@ This document and the underlying **Orbital Synchro-Rail** concept are designated
 ---
 **Project Name:** Orbital Synchro-Rail  
 **Concept:** Orbital electromagnetic linear accelerator for paired Starship launches in opposite directions.  
-**Version:** 1.4  
+**Version:** 1.5  
 **Date:** May 2026  
 **Status:** Active  
 **SIP Asset Lifecycle:** [STAGE-3 REGISTERED](https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md#3-the-sip-asset-lifecycle) SIP-SPACE-03 © 2026  
@@ -31,13 +31,22 @@ The result is a highly efficient two-way space transportation system: **humans o
 ## 2. Core Architecture
 
 ### Operational Principle
-- Two Starships of similar mass are accelerated simultaneously in opposite directions on the Synchro-Rail.
+- Two Starships are accelerated simultaneously in opposite directions on the Synchro-Rail.
 - **Prograde Starship**: Receives +3.2 km/s (Moon) or +3.6 km/s (Mars) → high-payload injection with minimal refueling.
-- **Retrograde Starship**: Receives -3.2 / -3.6 km/s (asymmetric when needed) → significantly softened reentry conditions.
+- **Retrograde Starship**: Receives variable retrograde delta-v (typically -3.2 to -4.8 km/s).
 
 **Optimized Split:**
 - **Prograde leg** → Human-rated + high-priority cargo (comfortable, lucrative)
 - **Retrograde leg** → **Cargo-only** (maximum downmass, accepts steeper reentry)
+
+### Asymmetric Delta-v Operations (SIP-SPACE-05)
+To handle expected mass imbalance (heavier prograde missions), the Synchro-Rail uses **asymmetric delta-v**. The lighter retrograde vehicle receives higher retrograde speed to maintain momentum balance. This flexibility improves operational efficiency and makes the retrograde reentry even softer.
+
+### Water Ballast System
+The Synchro-Rail incorporates large **water ballast tanks** (several thousand tonnes capacity) for:
+- Real-time mass balancing during asymmetric launches
+- Radiation shielding for crewed modules
+- Thermal management and future resource utilization (life support, propellant production)
 
 ## 3. Orbital Mechanics & Reentry Analysis
 
@@ -50,78 +59,36 @@ The result is a highly efficient two-way space transportation system: **humans o
 |-----------------------------|---------------|---------------------|--------------------|--------------------|----------------------|
 | Standard deorbit            | ~7.9 km/s    | -1° to -2°         | 4–6g              | 3–5g              | 100%                |
 | 3.2 km/s retrograde         | ~5.13 km/s   | -24° to -25°       | ~25–30g           | 8–15g             | ~25–30%             |
-| 3.6 km/s retrograde         | ~4.79 km/s   | -27° to -28°       | ~25–30g           | 8–15g             | ~20–25%             |
+| 4.0+ km/s retrograde (asym.)| ~4.0 – 4.5 km/s | -30° to -36°     | ~20–28g           | 10–18g            | ~20–25%             |
 
 **Key Finding:** The large reduction in velocity **more than compensates** for the steeper entry angle. Thermal loads drop dramatically.
-
-### Additional Soft Braking Burns (Cargo Leg)
-Large braking burns were evaluated but **rejected** for the cargo leg as they consume too much propellant and reduce the economic advantage of the Synchro-Rail.
 
 ## 4. Cargo Starship Variant (SIP-SPACE-03.1)
 
 **Reinforced Cargo Starship (Retrograde Optimized)**  
-To handle the steeper reentry profile while maximizing payload and reusability, the dedicated retrograde cargo Starship will feature:
-
-- **Internal Carbon Fiber Composite Frame**: High-strength CFRP longitudinal struts and circumferential rings.  
-- **Placement**: Entirely internal, protected by the stainless steel pressure vessel and TPS.  
-- **Purpose**: Increase structural stiffness and g-load tolerance (12–20g range) with minimal mass penalty (estimated +3–8 tonnes).
-
-This maintains high compatibility with Starship manufacturing while significantly improving survivability for steep retrograde returns.
+- Internal carbon fiber composite frame for increased stiffness and g-load tolerance  
+- Protected within the stainless steel pressure vessel  
+- Maintains high cargo volume and manufacturing compatibility
 
 ## 5. Lunar Return Integration
 
 **Lunar Orbit Rendezvous + Low-Energy Return (Recommended)**  
-Direct high-speed lunar returns (~11 km/s) cannot efficiently use the Synchro-Rail. A more optimized architecture allows integration:
-
-- Return to Low Lunar Orbit first.
-- Perform low-energy trans-Earth injection targeting Synchro-Rail rendezvous.
-- Use the Synchro-Rail for final large retrograde boost.
-- Execute softened reentry as cargo or crewed-android mission.
-
-This adds mission time but dramatically reduces propellant cost and enables high-mass lunar cargo returns.
+Direct high-speed returns are inefficient with the Synchro-Rail. Optimized returns use low-energy trajectories to rendezvous with the Synchro-Rail for final deceleration.
 
 ## 6. Emergency Crew Safe Haven Capability
 
-**Nominal Rule**: Retrograde reentry via Synchro-Rail is reserved for **cargo-only** or **crewed-android** missions.
-
-**Emergency Capability**: The Synchro-Rail includes dedicated **living modules** (protected by water shielding) to serve as a **safe haven** for astronauts in distress (e.g., damaged heat shield, propulsion failure, or life support issues on returning vehicles).
-
-Crew can dock, transfer to the safe haven, and await rescue or repair — significantly enhancing mission safety.
+The Synchro-Rail includes dedicated living modules (water-shielded) to serve as a **safe haven** for astronauts in emergency situations (damaged vehicle, life support failure, etc.).
 
 ## 7. Economic & Operational Advantages
 
-### Cargo-Only Retrograde Returns
-- No humans, life support, or seats → **Maximum payload** (estimated 80–120+ tons)
-- Humans and their luggage/hardware separated → further increases retrograde downmass
-- Accepts higher peak g-loads (mitigated by Starship lift + internal reinforcement)
-- Minimal propellant used for braking → extremely low cost per kg returned
+- Massive reduction in refueling needs for prograde missions
+- Ultra-low-cost bulk cargo returns
+- Flexible asymmetric operations handle real-world mass imbalances
+- Water ballast provides multi-purpose value (balancing, shielding, resources)
 
-### Prograde Human Missions
-- Massive delta-v boost reduces orbital refueling needs
-- Higher payload capacity to Moon and Mars
-- Comfortable, human-friendly outbound flight
-- High revenue potential (crew rotation, tourism, exploration support)
+## 8. Conclusion
 
-## 8. Return Cargo Opportunities
-- Lunar resources (He-3, rare earth elements, processed regolith)
-- Orbital manufactured goods (pharmaceuticals, ZBLAN fibers, advanced materials)
-- Recycled space debris (metals, components)
-- Scientific samples and hardware
-
-## 9. Challenges & Mitigations
-- **Cargo g-loads:** Use Starship’s lifting body capability + internal carbon fiber frame to limit peak g to ~8–15g
-- **Human return:** Initially separate; future versions may include moderated braking or advanced lift shaping
-- **Power:** Large photovoltaic arrays + energy storage for the Synchro-Rail
-- **Infrastructure mass:** Significant upfront investment, amortized over hundreds of launches
-
-## 10. Conclusion
-
-The **Orbital Synchro-Rail** enables a true bidirectional cislunar and Mars economy by:
-1. Dramatically reducing the energy cost of high-delta-v departures
-2. Enabling ultra-low-cost, high-mass cargo returns via softened reentry
-3. Separating human comfort requirements from cargo efficiency
-
-This paired, asymmetric use of Starship (humans out, cargo back) appears to be the most economically optimized approach.
+The **Orbital Synchro-Rail** enables a true bidirectional cislunar and Mars economy by dramatically reducing the energy cost of high-delta-v departures and enabling ultra-low-cost cargo returns, while maintaining operational flexibility through asymmetric delta-v and water ballast systems.
 
 ---
 **Required SAS R&D work**
