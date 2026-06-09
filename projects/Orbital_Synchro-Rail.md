@@ -65,11 +65,9 @@ The Synchro-Rail incorporates large **water ballast tanks** (several thousand to
 
 ## 4. Cargo Starship Variant (SIP-SPACE-03.1)
 
- HRX Glider Family: Synchro-Rail Retrograde Cargo Vehicles
-
 ![description](/projects/images/HRX-Glider.jpg)
 
-**Reinforced Cargo Starship (Retrograde Optimized)**  
+  [**Reinforced HRX Glider: Synchro-Rail Retrograde Cargo Vehicles (Retrograde Optimized)** ](https://github.com/QOGE/STELASER/blob/main/projects/HRX%20Glider%20Family%3A%20Synchro-Rail%20Retrograde%20Cargo%20Vehicles.md)*
 - Internal carbon fiber composite frame for increased stiffness and g-load tolerance  
 - Protected within the stainless steel pressure vessel  
 - Maintains high cargo volume and manufacturing compatibility
