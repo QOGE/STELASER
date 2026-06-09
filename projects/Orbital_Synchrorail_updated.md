@@ -20,7 +20,7 @@ This document and the underlying **Orbital Synchro-Rail** concept are designated
 
 ## 1. Executive Summary
 
-The **Orbital Synchro-Rail** is an orbital electromagnetic linear accelerator designed to launch **two Starships simultaneously in opposite directions**.
+The **Orbital Synchro-Rail** is an orbital electromagnetic linear accelerator designed to launch **two Starships simultaneously or asymmetrically in opposite directions**.
 
 This architecture uses momentum conservation to:
 - Provide massive velocity boosts for Moon and Mars injection (prograde Starship)
