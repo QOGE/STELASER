@@ -31,7 +31,7 @@ The result is a highly efficient two-way space transportation system: **humans o
 ## 2. Core Architecture
 
 ### Operational Principle
-- Two Starships are accelerated simultaneously in opposite directions on the Synchro-Rail.
+- Two Starships are accelerated simultaneously or asimmetricaly in opposite directions on the Synchro-Rail.
 - **Prograde Starship**: Receives +3.2 km/s (Moon) or +3.6 km/s (Mars) → high-payload injection with minimal refueling.
 - **Retrograde Starship**: Receives variable retrograde delta-v (typically -3.2 to -4.8 km/s).
 
