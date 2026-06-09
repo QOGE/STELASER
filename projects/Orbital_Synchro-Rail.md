@@ -63,7 +63,7 @@ The Synchro-Rail incorporates large **water ballast tanks** (several thousand to
 
 **Key Finding:** The large reduction in velocity **more than compensates** for the steeper entry angle. Thermal loads drop dramatically.
 
-## 4. Cargo Starship Variant(Retrograde Optimized)(SIP-SPACE-03.1)
+## 4. Cargo Starship Variant (Retrograde Optimized) (SIP-SPACE-03.1)
 
 ![description](/projects/images/HRX-Glider.jpg)
 
