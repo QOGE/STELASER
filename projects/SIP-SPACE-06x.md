@@ -1,4 +1,4 @@
-![description](projects/images/HRX-Glider.jpg)
+![description](/projects/images/HRX-Glider.jpg)
 # HRX Glider Family: Synchro-Rail Retrograde Cargo Vehicles
 
 **Symbiotic Intellectual Property: SIP-SPACE-06 © 2026**  
