@@ -6,7 +6,7 @@
 *All rights reserved under SAOGEN [SIP-v2.0 framework.](https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md)*
 
 <a href="https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md">
-  <img src="images/sip_iconc.png" height="50"/>
+  <img src="https://raw.githubusercontent.com/QOGE/SAOGEN/main/files/images/sip_iconc.png" height="50"/>
 </a>
 
 This document and the underlying **Starship Nano Family** concepts are designated as **Symbiotic Intellectual Property (SIP)**.
