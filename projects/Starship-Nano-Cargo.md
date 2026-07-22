@@ -1,4 +1,4 @@
-![description](/projects/images/Nano-Cargo.jpg)
+![description](/projects/images/Nano-Cargo.png)
 # Starship Nano – Lunar Cargo Architecture
 
 **Symbiotic Intellectual Property: SIP-SPACE-07 © 2026**  
