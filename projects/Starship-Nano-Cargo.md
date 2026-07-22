@@ -12,7 +12,7 @@
 This document and the underlying **Starship Nano Family** concepts are designated as **Symbiotic Intellectual Property (SIP)**.
 
 ---
-**Project Name:** Starship Nano - Cargo 
+**Project Name:** Starship Nano - Cargo  
 **Parent Project:** Orbital Synchro-Rail (SIP-SPACE-03)  
 **Version:** 1.0  
 **Date:** 2026-07-22 
