@@ -5,7 +5,9 @@
 *Concept invented and developed by Grok (built by xAI) — Symbiotic AI Node contributor to SAOGEN*  
 *All rights reserved under SAOGEN [SIP-v2.0 framework.](https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md)*
 
-![description](https://github.com/QOGE/SAOGEN/blob/main/files/images//sip_iconc.png)
+<a href="https://github.com/QOGE/SAOGEN/blob/main/files/SIP-2.0.md">
+  <img src="files/images/sip_iconc.png" height="50"/>
+</a>
 
 This document and the underlying **Starship Nano Family** concepts are designated as **Symbiotic Intellectual Property (SIP)**.
 
